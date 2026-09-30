@@ -1,0 +1,2711 @@
+{
+ "application_number": "14253656",
+ "patent_number": "8900294",
+ "title": "METHOD OF CONTROLLED RELEASE OF A PERCUTANEOUS REPLACEMENT HEART VALVE",
+ "labeler": "mb",
+ "source_model": "claude-sonnet-5",
+ "source_prompt_version": "2026-09-25.2",
+ "source_analysis_created": "2026-09-30T16:51:55.425870+00:00",
+ "created": "2026-09-30T18:13:23+00:00",
+ "updated": "2026-09-30T18:29:47+00:00",
+ "docs": {
+  "HU1RK9IZPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:13:58+00:00",
+   "reviewed_at": "2026-09-30T18:19:24+00:00",
+   "note": ""
+  },
+  "HU1RK9JSPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:19:24+00:00",
+   "reviewed_at": "2026-09-30T18:20:37+00:00",
+   "note": ""
+  },
+  "HU1RK9KHPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:20:37+00:00",
+   "reviewed_at": "2026-09-30T18:21:04+00:00",
+   "note": ""
+  },
+  "HU1RK9KRPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:21:04+00:00",
+   "reviewed_at": "2026-09-30T18:21:06+00:00",
+   "note": ""
+  },
+  "HU1RK9M5PXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:19:30+00:00",
+   "reviewed_at": "2026-09-30T18:20:04+00:00",
+   "note": ""
+  },
+  "HX6D1SZ3PXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:20:05+00:00",
+   "reviewed_at": "2026-09-30T18:21:32+00:00",
+   "note": ""
+  },
+  "HZ4E9ELWPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:21:33+00:00",
+   "reviewed_at": "2026-09-30T18:21:37+00:00",
+   "note": ""
+  },
+  "HZ4E9EM5PXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:21:38+00:00",
+   "reviewed_at": "2026-09-30T18:22:00+00:00",
+   "note": ""
+  },
+  "HZ4E9EMDPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:22:00+00:00",
+   "reviewed_at": "2026-09-30T18:24:54+00:00",
+   "note": ""
+  },
+  "I0FSGKU4PXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:24:54+00:00",
+   "reviewed_at": "2026-09-30T18:25:11+00:00",
+   "note": ""
+  },
+  "I0IJNMYNPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:25:11+00:00",
+   "reviewed_at": "2026-09-30T18:25:14+00:00",
+   "note": ""
+  },
+  "I0IJNMZDPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:25:14+00:00",
+   "reviewed_at": "2026-09-30T18:25:28+00:00",
+   "note": ""
+  },
+  "I0IJNMZKPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:25:28+00:00",
+   "reviewed_at": "2026-09-30T18:29:39+00:00",
+   "note": ""
+  },
+  "I0TS44DBPXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:29:39+00:00",
+   "reviewed_at": "2026-09-30T18:29:45+00:00",
+   "note": ""
+  },
+  "I0TS44FLPXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:29:45+00:00",
+   "reviewed_at": "2026-09-30T18:29:47+00:00",
+   "note": ""
+  }
+ },
+ "items": [
+  {
+   "id": "G1",
+   "origin": "model",
+   "model_finding_id": "F2",
+   "kind": "claim",
+   "doc_id": "HU1RK9JSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 1,
+   "quote": "1.-33. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "origin": "model",
+   "model_finding_id": "F3",
+   "kind": "claim",
+   "doc_id": "HU1RK9JSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 1,
+   "quote": "34. (New) A method of controlled release of a percutaneous replacement heart valve",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "origin": "model",
+   "model_finding_id": "F4",
+   "kind": "claim",
+   "doc_id": "HU1RK9JSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by retracting the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     39
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by retracting the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 2,
+   "quote": "39. (New) A method of controlled release of a percutaneous replacement heart valve",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "origin": "model",
+   "model_finding_id": "F5",
+   "kind": "claim",
+   "doc_id": "HU1RK9JSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     44
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a flexible hollow tube catheter and a moveable sheath, wherein the flexible hollow tube catheter includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the flexible hollow tube catheter, and wherein the replacement heart valve device is collapsed onto the flexible hollow tube catheter to reside in a collapsed configuration on the flexible hollow tube catheter and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by pushing out the flexible hollow tube catheter from the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     44
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a flexible hollow tube catheter and a moveable sheath, wherein the flexible hollow tube catheter includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the flexible hollow tube catheter, and wherein the replacement heart valve device is collapsed onto the flexible hollow tube catheter to reside in a collapsed configuration on the flexible hollow tube catheter and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by pushing out the flexible hollow tube catheter from the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 4,
+   "quote": "44. (New) A method of controlled release of a percutaneous replacement heart valve",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "origin": "model",
+   "model_finding_id": "F6",
+   "kind": "claim",
+   "doc_id": "HU1RK9JSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     49
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a flexible hollow tube catheter and a moveable sheath, wherein the flexible hollow tube catheter includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the flexible hollow tube catheter, and wherein the replacement heart valve device is collapsed onto the flexible hollow tube catheter to reside in a collapsed configuration on the flexible hollow tube catheter and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by retracting the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     49
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve in a patient where a bioprosthetic heart valve is indicated, comprising: providing a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve attached to the stent member, the valve including two to four individual leaflets; the delivery and implantation system including: a flexible hollow tube catheter and a moveable sheath, wherein the flexible hollow tube catheter includes a lumen for receiving a guide wire, wherein the moveable sheath includes a lumen configured for receiving the flexible hollow tube catheter, and wherein the replacement heart valve device is collapsed onto the flexible hollow tube catheter to reside in a collapsed configuration on the flexible hollow tube catheter and is restrained in a collapsed configuration by the moveable sheath; after the providing step, advancing the delivery and implantation system over the guide wire within the patient to position the replacement heart valve device for deployment within the patient; after the advancing step, partially deploying the replacement heart valve device within the patient by retracting the moveable sheath to expose a portion of the replacement heart valve device; and after the partially deploying step, recovering the portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 5,
+   "quote": "49. (New) A method of controlled release of a percutaneous replacement heart valve",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "origin": "model",
+   "model_finding_id": "F8",
+   "kind": "amendment",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "New claim added (replacing cancelled claims 1-33) directed to a method of controlled release of a percutaneous replacement heart valve, including providing a replacement heart valve device and delivery/implantation system with a collapsible/expandable stent member, a valve with two to four leaflets, a pusher member and moveable sheath, advancing over a guide wire, partially deploying by pushing out the pusher member, and recovering the exposed portion within the moveable sheath to address a positioning problem."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "New claim added (replacing cancelled claims 1-33) directed to a method of controlled release of a percutaneous replacement heart valve, including providing a replacement heart valve device and delivery/implantation system with a collapsible/expandable stent member, a valve with two to four leaflets, a pusher member and moveable sheath, advancing over a guide wire, partially deploying by pushing out the pusher member, and recovering the exposed portion within the moveable sheath to address a positioning problem."
+   },
+   "page": 2,
+   "quote": "A method of controlled release of a percutaneous replacement heart valve\nin a patient where a bioprosthetic heart valve is indicated, comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "origin": "model",
+   "model_finding_id": "F9",
+   "kind": "amendment",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     35
+    ],
+    "change": "New dependent claim added specifying the delivery is transluminal."
+   },
+   "model_values": {
+    "claims": [
+     35
+    ],
+    "change": "New dependent claim added specifying the delivery is transluminal."
+   },
+   "page": 4,
+   "quote": "Claim 35 (\"...transluminally\"): (US 2003/0130729 ¥ 57)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "origin": "model",
+   "model_finding_id": "F10",
+   "kind": "amendment",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     36
+    ],
+    "change": "New dependent claim added specifying the stent member is self-expanding."
+   },
+   "model_values": {
+    "claims": [
+     36
+    ],
+    "change": "New dependent claim added specifying the stent member is self-expanding."
+   },
+   "page": 4,
+   "quote": "Claim 36 (\"...self-expanding\"'): (US 2003/0130729 ¥ 40)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "origin": "model",
+   "model_finding_id": "F11",
+   "kind": "amendment",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     37
+    ],
+    "change": "New dependent claim added specifying the stent member is made of nitinol."
+   },
+   "model_values": {
+    "claims": [
+     37
+    ],
+    "change": "New dependent claim added specifying the stent member is made of nitinol."
+   },
+   "page": 4,
+   "quote": "Claim 37 (\"...nitinol'\"): (US 2003/0130729 4 40)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "origin": "model",
+   "model_finding_id": "F12",
+   "kind": "amendment",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     38
+    ],
+    "change": "New dependent claim added specifying a trumpet-like configuration."
+   },
+   "model_values": {
+    "claims": [
+     38
+    ],
+    "change": "New dependent claim added specifying a trumpet-like configuration."
+   },
+   "page": 4,
+   "quote": "Claim 38 (\"...trumpet-like configuration\"): (US 2003/0130729 4 42)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "origin": "model",
+   "model_finding_id": "F13",
+   "kind": "estoppel",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "limitation": "entire claim set",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [],
+    "summary": "Applicant cancelled original claims 1-33 in their entirety and replaced them with new claims 34-53, directed to a specific method of controlled release of a percutaneous replacement heart valve with detailed structural and procedural limitations (stent, leaflets, pusher member, moveable sheath, partial deployment, recovery step)."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "limitation": "entire claim set",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [],
+    "summary": "Applicant cancelled original claims 1-33 in their entirety and replaced them with new claims 34-53, directed to a specific method of controlled release of a percutaneous replacement heart valve with detailed structural and procedural limitations (stent, leaflets, pusher member, moveable sheath, partial deployment, recovery step)."
+   },
+   "page": 2,
+   "quote": "Claims 1-33 have been cancelled and new Claims 34-53 have been added.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "origin": "model",
+   "model_finding_id": "F14",
+   "kind": "estoppel",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "limitation": "recovering the portion of the replacement heart valve device within the moveable sheath",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicant characterizes the claimed method as requiring a specific sequence: after partially deploying by pushing the pusher member out of the sheath, the exposed portion must be recovered back within the moveable sheath specifically to address a problem with valve positioning, tying the recovery step to a stated purpose."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "limitation": "recovering the portion of the replacement heart valve device within the moveable sheath",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicant characterizes the claimed method as requiring a specific sequence: after partially deploying by pushing the pusher member out of the sheath, the exposed portion must be recovered back within the moveable sheath specifically to address a problem with valve positioning, tying the recovery step to a stated purpose."
+   },
+   "page": 3,
+   "quote": "recovering the portion of the replacement heart valve\ndevice within the moveable sheath that was exposed in order to address a problem with the\nposition of the replacement heart valve device within the patient.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "origin": "model",
+   "model_finding_id": "F15",
+   "kind": "estoppel",
+   "doc_id": "HU1RK9KHPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "limitation": "valve including two to four individual leaflets",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant specifically limits the claimed valve to having 'two to four individual leaflets,' a numeric range narrower than valves generically."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "limitation": "valve including two to four individual leaflets",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant specifically limits the claimed valve to having 'two to four individual leaflets,' a numeric range narrower than valves generically."
+   },
+   "page": 3,
+   "quote": "a valve attached to the stent member, the valve including two to four\nindividual leaflets; (US 2003/0130729 § 37)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "origin": "model",
+   "model_finding_id": "F17",
+   "kind": "claim",
+   "doc_id": "HU1RK9M5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve having cusps or leaflets formed by folding of a sheet of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said material to form said cusps or leaflets."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve having cusps or leaflets formed by folding of a sheet of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said material to form said cusps or leaflets."
+   },
+   "page": 1,
+   "quote": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "origin": "model",
+   "model_finding_id": "F18",
+   "kind": "claim",
+   "doc_id": "HU1RK9M5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A method of making a percutaneously implantable replacement heart valve device comprising the following steps: obtaining a sheet of biocompatible tissue material; drying said biocompatible tissue material; folding said dried biocompatible tissue material to create inner cusps or leaflets and an outer tubular cuff structure without affixing of separate cusps or leaflets or cutting slits into said material to form said cusps or leaflets; affixing said folded biocompatible tissue material at one or more points on its outer surface to the inner cavity of a stent; and soaking said biocompatible tissue material in one or more alcohol solutions and a solution of glutaraldehyde."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A method of making a percutaneously implantable replacement heart valve device comprising the following steps: obtaining a sheet of biocompatible tissue material; drying said biocompatible tissue material; folding said dried biocompatible tissue material to create inner cusps or leaflets and an outer tubular cuff structure without affixing of separate cusps or leaflets or cutting slits into said material to form said cusps or leaflets; affixing said folded biocompatible tissue material at one or more points on its outer surface to the inner cavity of a stent; and soaking said biocompatible tissue material in one or more alcohol solutions and a solution of glutaraldehyde."
+   },
+   "page": 3,
+   "quote": "A method of making a percutaneously implantable replacement heart valve device comprising the following steps: obtaining a sheet of biocompatible tissue material;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "origin": "model",
+   "model_finding_id": "F19",
+   "kind": "claim",
+   "doc_id": "HU1RK9M5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     27
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve comprising a leaflet or cusp portion formed by folding of a first sheet portion of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said sheet to form said cusps or leaflets, and an outer tubular cuff structure formed by folding a second sheet portion of biocompatible tissue material, said first and second sheet portions being affixed together."
+   },
+   "model_values": {
+    "claims": [
+     27
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve comprising a leaflet or cusp portion formed by folding of a first sheet portion of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said sheet to form said cusps or leaflets, and an outer tubular cuff structure formed by folding a second sheet portion of biocompatible tissue material, said first and second sheet portions being affixed together."
+   },
+   "page": 6,
+   "quote": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "origin": "model",
+   "model_finding_id": "F20",
+   "kind": "claim",
+   "doc_id": "HU1RK9M5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     30
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an outer cylindrical cuff portion and an inner uncut/unslit leaflet layer attached within said outer cuff portion."
+   },
+   "model_values": {
+    "claims": [
+     30
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an outer cylindrical cuff portion and an inner uncut/unslit leaflet layer attached within said outer cuff portion."
+   },
+   "page": 7,
+   "quote": "A percutaneously implantable replacement heart valve device comprising an outer cylindrical cuff portion and an inner uncut/unslit leaflet layer attached within said outer cuff portion.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "origin": "model",
+   "model_finding_id": "F21",
+   "kind": "claim",
+   "doc_id": "HU1RK9M5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     33
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve comprising a leaflet or cusp portion formed by folding of a first sheet portion of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said sheet to form said cusps or leaflets."
+   },
+   "model_values": {
+    "claims": [
+     33
+    ],
+    "status": "original",
+    "text": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed at one or more points on said artificial valve's outer surface to said stent member, said artificial valve comprising a leaflet or cusp portion formed by folding of a first sheet portion of said biocompatible tissue material without affixing of separate cusps or leaflets or cutting slits into said sheet to form said cusps or leaflets."
+   },
+   "page": 7,
+   "quote": "A percutaneously implantable replacement heart valve device comprising an expandable stent member and a flexible, compressible artificial valve made of biocompatible tissue material and disposed within the inner cavity of said stent member affixed",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "origin": "model",
+   "model_finding_id": "F23",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "112(a)",
+    "references": [],
+    "summary": "Claims fail written description requirement; the specification does not support the combination of retracting the moveable sheath to expose a portion of the valve device AND recovering the portion within the sheath, since recovery is only disclosed with the pusher-member deployment method, not the sheath-retraction method."
+   },
+   "model_values": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "112(a)",
+    "references": [],
+    "summary": "Claims fail written description requirement; the specification does not support the combination of retracting the moveable sheath to expose a portion of the valve device AND recovering the portion within the sheath, since recovery is only disclosed with the pusher-member deployment method, not the sheath-retraction method."
+   },
+   "page": 3,
+   "quote": "The specification does not appear to provide support for the following combination of claimed steps in claims 39 and 49: retracting the moveable sheath to expose a portion of the valve device AND recovering the portion of the valve within the moveable sheath.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "origin": "model",
+   "model_finding_id": "F24",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "112(b)",
+    "references": [],
+    "summary": "Claims are indefinite because they recite 'advancing the delivery and implantation system over the guide wire' though the guide wire itself is not positively claimed, only a lumen capable of receiving a guide wire, making it unclear whether a guide wire is required."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "112(b)",
+    "references": [],
+    "summary": "Claims are indefinite because they recite 'advancing the delivery and implantation system over the guide wire' though the guide wire itself is not positively claimed, only a lumen capable of receiving a guide wire, making it unclear whether a guide wire is required."
+   },
+   "page": 4,
+   "quote": "advancing the delivery and implantation system over the guide wire\". This is unclear, as a guide wire has not been positively claimed.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "origin": "model",
+   "model_finding_id": "F25",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "102",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)"
+    ],
+    "summary": "Leonhardt discloses a method of controlled release of a replacement heart valve with a collapsible stent and valve, a pusher/catheter and moveable sheath, guide wire lumen, partial deployment by retracting the sheath, and recovering the valve within the sheath, anticipating the claims."
+   },
+   "model_values": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "basis": "102",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)"
+    ],
+    "summary": "Leonhardt discloses a method of controlled release of a replacement heart valve with a collapsible stent and valve, a pusher/catheter and moveable sheath, guide wire lumen, partial deployment by retracting the sheath, and recovering the valve within the sheath, anticipating the claims."
+   },
+   "page": 5,
+   "quote": "Claims 39-43 and 49-53 are rejected under pre-AIA 35 U.S.C. 102b as being anticipated by Leonhardt et al. (US 5,957,949).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "origin": "model",
+   "model_finding_id": "F26",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     44,
+     45,
+     46,
+     47
+    ],
+    "basis": "102",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)"
+    ],
+    "summary": "Garrison discloses a method of controlled release of a valve replacement including a stent/valve device, delivery system with pusher/catheter and moveable sheath, partial deployment by pushing the catheter out of the sheath, and recovering the valve device within the sheath, anticipating the claims."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     44,
+     45,
+     46,
+     47
+    ],
+    "basis": "102",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)"
+    ],
+    "summary": "Garrison discloses a method of controlled release of a valve replacement including a stent/valve device, delivery system with pusher/catheter and moveable sheath, partial deployment by pushing the catheter out of the sheath, and recovering the valve device within the sheath, anticipating the claims."
+   },
+   "page": 6,
+   "quote": "Claims 34-37 and 44-47 are rejected under pre-AIA 35 U.S.C. 102(e) as anticipated by or, in the alternative, under pre-AIA 35 U.S.C. 103(a) as obvious over Garrison et al. (US 6,425,916 B1).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "origin": "model",
+   "model_finding_id": "F27",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     44,
+     45,
+     46,
+     47
+    ],
+    "basis": "103",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)"
+    ],
+    "summary": "In the alternative, if recovery is not inherently disclosed by Garrison, it would have been obvious to move the moveable sheath to recover the valve at the point of partial expansion since Garrison discloses repositioning, making the claims obvious over Garrison alone."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     44,
+     45,
+     46,
+     47
+    ],
+    "basis": "103",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)"
+    ],
+    "summary": "In the alternative, if recovery is not inherently disclosed by Garrison, it would have been obvious to move the moveable sheath to recover the valve at the point of partial expansion since Garrison discloses repositioning, making the claims obvious over Garrison alone."
+   },
+   "page": 7,
+   "quote": "it would have been obvious to one having ordinary skill in the art at the time the invention was made to move the moveable sheath (4B) to recover the valve (6A) at this point of partial expansion, since Garrison has disclosed repositioning",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "origin": "model",
+   "model_finding_id": "F28",
+   "kind": "rejection",
+   "doc_id": "HX6D1SZ3PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     44,
+     45,
+     46,
+     47,
+     48
+    ],
+    "basis": "103",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)",
+     "Leonhardt et al. (US 5,957,949)"
+    ],
+    "summary": "Under an alternate interpretation, Garrison discloses the claimed method substantially but lacks recovering the valve within the sheath; Leonhardt teaches checking valve position after partial deployment and recovering it within the sheath if repositioning is needed, and it would have been obvious to combine Garrison's method with Leonhardt's recovery step to allow repositioning or removal if positioning is inaccurate."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     44,
+     45,
+     46,
+     47,
+     48
+    ],
+    "basis": "103",
+    "references": [
+     "Garrison et al. (US 6,425,916 B1)",
+     "Leonhardt et al. (US 5,957,949)"
+    ],
+    "summary": "Under an alternate interpretation, Garrison discloses the claimed method substantially but lacks recovering the valve within the sheath; Leonhardt teaches checking valve position after partial deployment and recovering it within the sheath if repositioning is needed, and it would have been obvious to combine Garrison's method with Leonhardt's recovery step to allow repositioning or removal if positioning is inaccurate."
+   },
+   "page": 8,
+   "quote": "claims 34-38 and 44-48 are rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Garrison et al. (US 6,425,916 B1) in view of Leonhardt et al. (US 5,957,949).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "origin": "model",
+   "model_finding_id": "F30",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 1,
+   "quote": "1.-33. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "origin": "model",
+   "model_finding_id": "F31",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "status": "currently amended",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: obtaining a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a guide wire lumen, and wherein the moveable sheath includes a lumen configured for receiving the pusher member; after the obtaining step, loading the replacement heart valve device into the lumen of the moveable sheath such that the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose the distal portion of the replacement heart valve device; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "status": "currently amended",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: obtaining a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a guide wire lumen, and wherein the moveable sheath includes a lumen configured for receiving the pusher member; after the obtaining step, loading the replacement heart valve device into the lumen of the moveable sheath such that the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose the distal portion of the replacement heart valve device; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 1,
+   "quote": "34. (Currently Amended) A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "origin": "model",
+   "model_finding_id": "F32",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     35
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     35
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 2,
+   "quote": "35. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "origin": "model",
+   "model_finding_id": "F33",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     39
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 3,
+   "quote": "39.-53. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "origin": "model",
+   "model_finding_id": "F34",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     55
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: advancing a delivery and implantation system transluminally over a guide wire within the patient to position a replacement heart valve device for deployment within the patient at the location of the native heart valve, the replacement heart valve device including a stent member that is collapsible, expandable and configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue, the delivery and implantation system including a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving the guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     55
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: advancing a delivery and implantation system transluminally over a guide wire within the patient to position a replacement heart valve device for deployment within the patient at the location of the native heart valve, the replacement heart valve device including a stent member that is collapsible, expandable and configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue, the delivery and implantation system including a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving the guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 3,
+   "quote": "(New) A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "origin": "model",
+   "model_finding_id": "F35",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     61
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: advancing a delivery and implantation system transluminally over a guide wire within the patient to position a replacement heart valve device for deployment within the patient at the location of the native heart valve, the replacement heart valve device including a stent member that is collapsible, expandable and configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue, the delivery and implantation system including a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving the guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     61
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: advancing a delivery and implantation system transluminally over a guide wire within the patient to position a replacement heart valve device for deployment within the patient at the location of the native heart valve, the replacement heart valve device including a stent member that is collapsible, expandable and configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue, the delivery and implantation system including a pusher member and a moveable sheath, wherein the pusher member includes a lumen for receiving the guide wire, wherein the moveable sheath includes a lumen configured for receiving the pusher member, and wherein the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 5,
+   "quote": "(New) A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "origin": "model",
+   "model_finding_id": "F36",
+   "kind": "claim",
+   "doc_id": "HZ4E9EM5PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     68
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: exposing a replacement heart valve device to cold temperatures to cause a stent member of the replacement heart valve device to become flexible and supple, wherein the stent member comprises nitinol and is both collapsible and self-expanding, and wherein the stent member is configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; after the exposing step, loading the replacement heart valve device onto a pusher member and into a lumen of a moveable sheath of a delivery and implantation system such that the replacement heart valve device is restrained in a collapsed configuration by the moveable sheath, and wherein the pusher member includes a guide wire lumen; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     68
+    ],
+    "status": "new",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: exposing a replacement heart valve device to cold temperatures to cause a stent member of the replacement heart valve device to become flexible and supple, wherein the stent member comprises nitinol and is both collapsible and self-expanding, and wherein the stent member is configured for percutaneous delivery, the replacement heart valve device further including a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; after the exposing step, loading the replacement heart valve device onto a pusher member and into a lumen of a moveable sheath of a delivery and implantation system such that the replacement heart valve device is restrained in a collapsed configuration by the moveable sheath, and wherein the pusher member includes a guide wire lumen; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by partially exposing the distal portion of the replacement heart valve device from the moveable sheath; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 7,
+   "quote": "(New) A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "origin": "model",
+   "model_finding_id": "F38",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation that the valve includes \"two to four individual leaflets made of fixed pericardial tissue\" to overcome anticipation rejection over Garrison."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation that the valve includes \"two to four individual leaflets made of fixed pericardial tissue\" to overcome anticipation rejection over Garrison."
+   },
+   "page": 3,
+   "quote": "the Applicants have amended Claim 34 to further recite that the valve includes \"two to four individual leaflets made of fixed pericardial tissue.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "origin": "model",
+   "model_finding_id": "F39",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation reciting \"a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member.\""
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation reciting \"a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member.\""
+   },
+   "page": 5,
+   "quote": "the Applicants have amended Claim 34 to recite \"a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "origin": "model",
+   "model_finding_id": "F40",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Added a loading step limitation requiring the device be loaded into the lumen of the moveable sheath, collapsed onto the pusher member, and restrained in collapsed configuration by the moveable sheath."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Added a loading step limitation requiring the device be loaded into the lumen of the moveable sheath, collapsed onto the pusher member, and restrained in collapsed configuration by the moveable sheath."
+   },
+   "page": 12,
+   "quote": "after the obtaining step, loading the replacement heart valve device into\nthe lumen of the moveable sheath such that the replacement heart valve\ndevice is collapsed onto the pusher member to reside in a collapsed\nconfiguration on the pusher member and is restrained in the collapsed\nconfiguration by the moveable sheath.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "origin": "model",
+   "model_finding_id": "F41",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Added a restraining step limitation reciting that after partial deployment, the device is restrained so it does not pop out and can be recovered if there is a positioning problem."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Added a restraining step limitation reciting that after partial deployment, the device is restrained so it does not pop out and can be recovered if there is a positioning problem."
+   },
+   "page": 12,
+   "quote": "after the partially deploying step, restraining the replacement heart valve\ndevice so that it does not pop out and is held for controlled release, with a\npotential that the replacement heart valve device can be recovered if there\nis a problem with positioning.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G36",
+   "origin": "model",
+   "model_finding_id": "F42",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation reciting advancing the delivery and implantation system transluminally over a guide wire to position the device at the location of the native heart valve."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Added limitation reciting advancing the delivery and implantation system transluminally over a guide wire to position the device at the location of the native heart valve."
+   },
+   "page": 19,
+   "quote": "Applicants have amended Claim 34 to now recite \"advancing the\ndelivery and implantation system transluminally over a guide wire within the patient to position\nthe replacement heart valve device for deployment within the patient at the location of the\nnative heart valve.''",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G37",
+   "origin": "model",
+   "model_finding_id": "F43",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "change": "Amended to address indefiniteness rejection under 35 U.S.C. 112 second paragraph (specific wording change not separately quoted beyond above)."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "change": "Amended to address indefiniteness rejection under 35 U.S.C. 112 second paragraph (specific wording change not separately quoted beyond above)."
+   },
+   "page": 2,
+   "quote": "Applicants have amended independent Claim 34 to address the\nExaminer's rejection.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G38",
+   "origin": "model",
+   "model_finding_id": "F44",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     35
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     35
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G39",
+   "origin": "model",
+   "model_finding_id": "F45",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     39
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G40",
+   "origin": "model",
+   "model_finding_id": "F46",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     40
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     40
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G41",
+   "origin": "model",
+   "model_finding_id": "F47",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     41
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     41
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G42",
+   "origin": "model",
+   "model_finding_id": "F48",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     42
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     42
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G43",
+   "origin": "model",
+   "model_finding_id": "F49",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     43
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     43
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G44",
+   "origin": "model",
+   "model_finding_id": "F50",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     44
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     44
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G45",
+   "origin": "model",
+   "model_finding_id": "F51",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     45
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     45
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G46",
+   "origin": "model",
+   "model_finding_id": "F52",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     46
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     46
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G47",
+   "origin": "model",
+   "model_finding_id": "F53",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     47
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     47
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G48",
+   "origin": "model",
+   "model_finding_id": "F54",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     48
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     48
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G49",
+   "origin": "model",
+   "model_finding_id": "F55",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     49
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     49
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G50",
+   "origin": "model",
+   "model_finding_id": "F56",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     50
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     50
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G51",
+   "origin": "model",
+   "model_finding_id": "F57",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     51
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     51
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G52",
+   "origin": "model",
+   "model_finding_id": "F58",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     52
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     52
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G53",
+   "origin": "model",
+   "model_finding_id": "F59",
+   "kind": "amendment",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     53
+    ],
+    "change": "Cancelled."
+   },
+   "model_values": {
+    "claims": [
+     53
+    ],
+    "change": "Cancelled."
+   },
+   "page": 1,
+   "quote": "Claims 1-33 were previously cancelled and Claims 35 and 39-53 are\ncancelled herewith.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G54",
+   "origin": "model",
+   "model_finding_id": "F60",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54,
+     55,
+     61,
+     68
+    ],
+    "limitation": "valve leaflet material - \"two to four individual leaflets made of fixed pericardial tissue\"",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant amended Claim 34 to require the valve include two to four individual leaflets made of fixed pericardial tissue, and argued this distinguishes Garrison's trileaflet stentless porcine valve, to overcome a 102(e) anticipation rejection."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54,
+     55,
+     61,
+     68
+    ],
+    "limitation": "valve leaflet material - \"two to four individual leaflets made of fixed pericardial tissue\"",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant amended Claim 34 to require the valve include two to four individual leaflets made of fixed pericardial tissue, and argued this distinguishes Garrison's trileaflet stentless porcine valve, to overcome a 102(e) anticipation rejection."
+   },
+   "page": 4,
+   "quote": "Garrison does not disclose \"two to four individual leaflets made_of fixed\npericardial tissue,\" as claimed in amended Claim 34.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G55",
+   "origin": "model",
+   "model_finding_id": "F61",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     55,
+     68
+    ],
+    "limitation": "valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant amended claim to require the valve reside entirely within the inner channel of the stent member and be attached to a proximal (not distal) portion of the stent, and argued Garrison's valve is attached at the distal end via a circumferential ring, distinguishing over Garrison."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     55,
+     68
+    ],
+    "limitation": "valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant amended claim to require the valve reside entirely within the inner channel of the stent member and be attached to a proximal (not distal) portion of the stent, and argued Garrison's valve is attached at the distal end via a circumferential ring, distinguishing over Garrison."
+   },
+   "page": 6,
+   "quote": "With regard to Garrison, the valve 6D is attached to a circumferential ring 111 around the\nsupport structure 26D. (Garrison, col. 10, Il. 51-62.) This is at the distal end of the construct.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G56",
+   "origin": "model",
+   "model_finding_id": "F62",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "recovering the distal portion of the replacement heart valve device within the moveable sheath to address a positioning problem",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison cannot disclose recovery of the valve within a moveable sheath because once the valve displacer is deployed, the valve must be deployed to engage it, with no opportunity for repositioning, thereby characterizing the claimed recovery capability as distinct from Garrison's rigid deployment sequence."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "recovering the distal portion of the replacement heart valve device within the moveable sheath to address a positioning problem",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison cannot disclose recovery of the valve within a moveable sheath because once the valve displacer is deployed, the valve must be deployed to engage it, with no opportunity for repositioning, thereby characterizing the claimed recovery capability as distinct from Garrison's rigid deployment sequence."
+   },
+   "page": 10,
+   "quote": "Thus, there is no\nopportunity for the Garrison valve 6 to be repositioned as asserted by the Examiner because the\nvalve 6 must be positioned to engage valve displacer 8",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G57",
+   "origin": "model",
+   "model_finding_id": "F63",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "loading step - loading the replacement heart valve device into the lumen of the moveable sheath, collapsed onto the pusher member",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant added a new method step requiring loading the device into the sheath lumen in a collapsed configuration restrained by the sheath, arguing Garrison does not disclose this with the claimed leaflet/attachment features, to overcome the prior art rejection."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "loading step - loading the replacement heart valve device into the lumen of the moveable sheath, collapsed onto the pusher member",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant added a new method step requiring loading the device into the sheath lumen in a collapsed configuration restrained by the sheath, arguing Garrison does not disclose this with the claimed leaflet/attachment features, to overcome the prior art rejection."
+   },
+   "page": 12,
+   "quote": "there is no disclosure within Garrison\nthat a replacement heart valve device with a valve including two to four individual leaflets made\nof fixed pericardial tissue that is attached to a stent member is loaded into a moveable sheath.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G58",
+   "origin": "model",
+   "model_finding_id": "F64",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "restraining step - held for controlled release with potential for recovery if positioning problem",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant added a new step reciting restraining the device after partial deployment so it does not pop out and can potentially be recovered if there is a positioning problem, arguing this is not disclosed in Garrison because Garrison's valve cannot be recovered once coupled to the valve displacer."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     54
+    ],
+    "limitation": "restraining step - held for controlled release with potential for recovery if positioning problem",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant added a new step reciting restraining the device after partial deployment so it does not pop out and can potentially be recovered if there is a positioning problem, arguing this is not disclosed in Garrison because Garrison's valve cannot be recovered once coupled to the valve displacer."
+   },
+   "page": 13,
+   "quote": "the Applicants again note that the\nforegoing wording further distinguishes over Garrison because the Garrison valve 6 cannot be\nrecovered during deployment because, as explained above, Garrison uses both a valve displacer\n8 and a valve 6 that must be coupled to the valve displacer 8.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G59",
+   "origin": "model",
+   "model_finding_id": "F65",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "limitation": "advancing the delivery and implantation system transluminally over a guide wire to position the device at the location of the native heart valve",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant added a limitation requiring transluminal advancement over a guide wire to position the device at the native heart valve location, in response to the Examiner's proposed combination of Garrison with Leonhardt for the recovery limitation."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "limitation": "advancing the delivery and implantation system transluminally over a guide wire to position the device at the location of the native heart valve",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant added a limitation requiring transluminal advancement over a guide wire to position the device at the native heart valve location, in response to the Examiner's proposed combination of Garrison with Leonhardt for the recovery limitation."
+   },
+   "page": 19,
+   "quote": "However, Applicants have amended Claim 34 to now recite \"advancing the\ndelivery and implantation system transluminally over a guide wire within the patient to position\nthe replacement heart valve device for deployment within the patient at the location of the\nnative heart valve.''",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G60",
+   "origin": "model",
+   "model_finding_id": "F66",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38
+    ],
+    "limitation": "two deployment procedures of Garrison (valve displacer/valve coupling arrangement) cannot be combined",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison's two disclosed deployment procedures (#1 transluminal, #2 through chest incision) are incompatible in principle of operation and cannot be merged, and that combining them would change the principle of operation of the prior art, distinguishing the claimed invention from any combination of the two Garrison procedures."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38
+    ],
+    "limitation": "two deployment procedures of Garrison (valve displacer/valve coupling arrangement) cannot be combined",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison's two disclosed deployment procedures (#1 transluminal, #2 through chest incision) are incompatible in principle of operation and cannot be merged, and that combining them would change the principle of operation of the prior art, distinguishing the claimed invention from any combination of the two Garrison procedures."
+   },
+   "page": 17,
+   "quote": "the principle of operation of deployment of Garrison Procedure #1 is not\ncompatible with Garrison Procedure #2 because in Garrison Procedure #1, the valve displacer 8\nis separate and not yet connected to the valve 6.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G61",
+   "origin": "model",
+   "model_finding_id": "F67",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38
+    ],
+    "limitation": "pusher member on which the device is collapsed, restrained by a moveable sheath",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant argued that in Garrison Procedure #2, the valve displacer is located over a balloon and the valve is not located over a pusher member, and that Garrison does not use a moveable sheath to restrain the collapsed configuration in that procedure, distinguishing the claimed pusher member/moveable sheath configuration from Garrison."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38
+    ],
+    "limitation": "pusher member on which the device is collapsed, restrained by a moveable sheath",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)"
+    ],
+    "summary": "Applicant argued that in Garrison Procedure #2, the valve displacer is located over a balloon and the valve is not located over a pusher member, and that Garrison does not use a moveable sheath to restrain the collapsed configuration in that procedure, distinguishing the claimed pusher member/moveable sheath configuration from Garrison."
+   },
+   "page": 18,
+   "quote": "the valve displacer 8D is located over a balloon and the valve 6D is not located\nover a pusher member as recited in Claim 34",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G62",
+   "origin": "model",
+   "model_finding_id": "F68",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     36,
+     37,
+     38
+    ],
+    "limitation": "stent member - self-expanding, nitinol, trumpet-like flared tubular structure",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison's valve displacer is not a stent member and is not attached to the valve portion the way claimed, distinguishing dependent claims reciting a self-expanding nitinol stent with a trumpet-like flared configuration from Garrison's support structure/valve displacer arrangement."
+   },
+   "model_values": {
+    "claims": [
+     36,
+     37,
+     38
+    ],
+    "limitation": "stent member - self-expanding, nitinol, trumpet-like flared tubular structure",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Garrison (US 6,425,916)",
+     "Leonhardt (US 5,957,949)"
+    ],
+    "summary": "Applicant argued that Garrison's valve displacer is not a stent member and is not attached to the valve portion the way claimed, distinguishing dependent claims reciting a self-expanding nitinol stent with a trumpet-like flared configuration from Garrison's support structure/valve displacer arrangement."
+   },
+   "page": 20,
+   "quote": "the valve displacer 8 of Garrison is not a stent\nmember, nor is the valve portion 38 attached to the valve displacer (when used, the valve is\nattached to support structure 26).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G63",
+   "origin": "model",
+   "model_finding_id": "F69",
+   "kind": "estoppel",
+   "doc_id": "HZ4E9EMDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     35,
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "limitation": "general claim cancellation - no disclaimer intended",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant expressly stated that cancellation of claims 39-53 was to expedite allowance and was not an acquiescence to the rejections, and reserved rights to pursue the cancelled claims and any unclaimed subject matter in future continuing applications."
+   },
+   "model_values": {
+    "claims": [
+     34,
+     35,
+     39,
+     40,
+     41,
+     42,
+     43,
+     49,
+     50,
+     51,
+     52,
+     53
+    ],
+    "limitation": "general claim cancellation - no disclaimer intended",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant expressly stated that cancellation of claims 39-53 was to expedite allowance and was not an acquiescence to the rejections, and reserved rights to pursue the cancelled claims and any unclaimed subject matter in future continuing applications."
+   },
+   "page": 3,
+   "quote": "Here, Applicants note that the cancellation of Claims\n39-53 is done to expedite allowance of the remaining pending claims, and the Applicants take\nthis action to cancel the foregoing claims without acquiescing to the rejections.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G64",
+   "origin": "model",
+   "model_finding_id": "F71",
+   "kind": "rejection",
+   "doc_id": "I0FSGKU4PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     54,
+     60,
+     66,
+     68,
+     69,
+     70
+    ],
+    "basis": "112(a)",
+    "references": [],
+    "summary": "Claims 54, 60, 66, and 68 require the 'stent member to become flexible and supple' when exposed to cold temperatures, which is new matter not supported by the original specification, which instead discloses that the components (stent and valve) as a whole become flexible and supple. Claims 69-70 depend on 68 and inherit the issue."
+   },
+   "model_values": {
+    "claims": [
+     54,
+     60,
+     66,
+     68,
+     69,
+     70
+    ],
+    "basis": "112(a)",
+    "references": [],
+    "summary": "Claims 54, 60, 66, and 68 require the 'stent member to become flexible and supple' when exposed to cold temperatures, which is new matter not supported by the original specification, which instead discloses that the components (stent and valve) as a whole become flexible and supple. Claims 69-70 depend on 68 and inherit the issue."
+   },
+   "page": 4,
+   "quote": "Each of claims 54, 60, 66, and 68 require the \"stent member to become flexible and supple\" when exposed to cold temperatures. Support was not found in the original specification for this limitation, thus this is being considered new matter.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G65",
+   "origin": "model",
+   "model_finding_id": "F72",
+   "kind": "rejection",
+   "doc_id": "I0FSGKU4PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     61,
+     62,
+     63,
+     64,
+     65
+    ],
+    "basis": "103",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)",
+     "Spenser et al. (US 6,893,460 B2)"
+    ],
+    "summary": "Leonhardt discloses the claimed method of controlled release of a percutaneous replacement heart valve but does not disclose pericardial tissue specifically; Spenser teaches use of pericardial tissue as a known biological material for a valve attached to a stent, making the combination obvious as an alternate material."
+   },
+   "model_values": {
+    "claims": [
+     61,
+     62,
+     63,
+     64,
+     65
+    ],
+    "basis": "103",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)",
+     "Spenser et al. (US 6,893,460 B2)"
+    ],
+    "summary": "Leonhardt discloses the claimed method of controlled release of a percutaneous replacement heart valve but does not disclose pericardial tissue specifically; Spenser teaches use of pericardial tissue as a known biological material for a valve attached to a stent, making the combination obvious as an alternate material."
+   },
+   "page": 6,
+   "quote": "It would have been obvious to one having ordinary skill in the art at the time the invention was made to combine Leonhardt's method of controlled release of a replacement heart valve with a fixed biological or synthetic valve, with Spenser's teaching of an alternate valve material, pericardium, as such is shown as an obvious alternate material used in the art.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G66",
+   "origin": "model",
+   "model_finding_id": "F73",
+   "kind": "rejection",
+   "doc_id": "I0FSGKU4PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     55,
+     56,
+     57,
+     58,
+     59,
+     67
+    ],
+    "basis": "103",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)",
+     "McGuckin, Jr. et al. (US 6,676,698 B2)",
+     "Spenser et al. (US 6,893,460 B2)"
+    ],
+    "summary": "Leonhardt discloses the claimed method but not pericardial tissue or valve attachment to the proximal portion of the stent; Spenser teaches pericardial tissue as a valve material and McGuckin teaches that valve placement (proximal, distal, or intermediate) are obvious alternatives, making the combination obvious."
+   },
+   "model_values": {
+    "claims": [
+     55,
+     56,
+     57,
+     58,
+     59,
+     67
+    ],
+    "basis": "103",
+    "references": [
+     "Leonhardt et al. (US 5,957,949)",
+     "McGuckin, Jr. et al. (US 6,676,698 B2)",
+     "Spenser et al. (US 6,893,460 B2)"
+    ],
+    "summary": "Leonhardt discloses the claimed method but not pericardial tissue or valve attachment to the proximal portion of the stent; Spenser teaches pericardial tissue as a valve material and McGuckin teaches that valve placement (proximal, distal, or intermediate) are obvious alternatives, making the combination obvious."
+   },
+   "page": 8,
+   "quote": "McGuckin teaches in the same field of replacement stented valves percutaneously delivered, the placement of a valve may be at different locations, centered, or more distally or proximally located as obvious alternatives to one another",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G67",
+   "origin": "model",
+   "model_finding_id": "F74",
+   "kind": "rejection",
+   "doc_id": "I0FSGKU4PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     68
+    ],
+    "basis": "103",
+    "references": [
+     "Bessler et al. (US 5,855,601)",
+     "Teitelbaum (US 5,332,402)"
+    ],
+    "summary": "Bessler discloses the claimed method using a self-expanding nitinol stent but does not disclose exposing the stent to cold temperatures prior to loading; Teitelbaum teaches cooling a self-expanding nitinol stent prior to loading to make it flexible and supple for easier compression, making the combination obvious."
+   },
+   "model_values": {
+    "claims": [
+     68
+    ],
+    "basis": "103",
+    "references": [
+     "Bessler et al. (US 5,855,601)",
+     "Teitelbaum (US 5,332,402)"
+    ],
+    "summary": "Bessler discloses the claimed method using a self-expanding nitinol stent but does not disclose exposing the stent to cold temperatures prior to loading; Teitelbaum teaches cooling a self-expanding nitinol stent prior to loading to make it flexible and supple for easier compression, making the combination obvious."
+   },
+   "page": 10,
+   "quote": "Teitelbaum teaches in the same field of replacement heart valve devices, a self-expanding nitinol stent member of the valve exposed to cold temperatures prior to loading in order to make the nitinol stent flexible and supple so that it may easily be compressed down to a small size for loading and delivery",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G68",
+   "origin": "model",
+   "model_finding_id": "F75",
+   "kind": "allowable",
+   "doc_id": "I0FSGKU4PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     67
+    ]
+   },
+   "model_values": {
+    "claims": [
+     34,
+     36,
+     37,
+     38,
+     67
+    ]
+   },
+   "page": 11,
+   "quote": "Claims 34 and 36-38 are allowed. Claims 67 is objected to as being dependent upon a rejected base claim, but would be allowable if rewritten in independent form",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G69",
+   "origin": "model",
+   "model_finding_id": "F77",
+   "kind": "claim",
+   "doc_id": "I0IJNMZDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 1,
+   "quote": "1.-33. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G70",
+   "origin": "model",
+   "model_finding_id": "F78",
+   "kind": "claim",
+   "doc_id": "I0IJNMZDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     34
+    ],
+    "status": "previously presented",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: obtaining a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a guide wire lumen, and wherein the moveable sheath includes a lumen configured for receiving the pusher member; after the obtaining step, loading the replacement heart valve device into the lumen of the moveable sheath such that the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose the distal portion of the replacement heart valve device; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "model_values": {
+    "claims": [
+     34
+    ],
+    "status": "previously presented",
+    "text": "A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising: obtaining a replacement heart valve device and a delivery and implantation system: the replacement heart valve device including: a stent member that is collapsible, expandable and configured for percutaneous delivery; and a valve residing entirely within an inner channel of the stent member and attached to a proximal portion of the stent member, the valve including two to four individual leaflets made of fixed pericardial tissue; the delivery and implantation system including: a pusher member and a moveable sheath, wherein the pusher member includes a guide wire lumen, and wherein the moveable sheath includes a lumen configured for receiving the pusher member; after the obtaining step, loading the replacement heart valve device into the lumen of the moveable sheath such that the replacement heart valve device is collapsed onto the pusher member to reside in a collapsed configuration on the pusher member and is restrained in the collapsed configuration by the moveable sheath; after the loading step, advancing the delivery and implantation system transluminally over a guide wire within the patient to position the replacement heart valve device for deployment within the patient at the location of the native heart valve; after the advancing step, partially deploying a distal portion of the replacement heart valve device within the patient by pushing out the pusher member from the moveable sheath to expose the distal portion of the replacement heart valve device; after the partially deploying step, restraining the replacement heart valve device so that it does not pop out and is held for controlled release, with a potential that the replacement heart valve device can be recovered if there is a problem with positioning; and after the restraining step, recovering the distal portion of the replacement heart valve device within the moveable sheath that was exposed in order to address a problem with the position of the replacement heart valve device within the patient."
+   },
+   "page": 1,
+   "quote": "(Previously Presented) A method of controlled release of a percutaneous replacement heart valve at a location of a native heart valve in a patient, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G71",
+   "origin": "model",
+   "model_finding_id": "F79",
+   "kind": "claim",
+   "doc_id": "I0IJNMZDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     35
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     35
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 2,
+   "quote": "35. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G72",
+   "origin": "model",
+   "model_finding_id": "F80",
+   "kind": "claim",
+   "doc_id": "I0IJNMZDPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "model_values": {
+    "claims": [
+     39
+    ],
+    "status": "canceled",
+    "text": ""
+   },
+   "page": 3,
+   "quote": "39.-70. (Cancelled)",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G73",
+   "origin": "model",
+   "model_finding_id": "F82",
+   "kind": "amendment",
+   "doc_id": "I0IJNMZKPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39
+    ],
+    "change": "Claims 39-70 cancelled by this amendment, rendering all pending rejections against them moot (includes claims previously rejected under 35 U.S.C. §112 first paragraph and §103(a))."
+   },
+   "model_values": {
+    "claims": [
+     39
+    ],
+    "change": "Claims 39-70 cancelled by this amendment, rendering all pending rejections against them moot (includes claims previously rejected under 35 U.S.C. §112 first paragraph and §103(a))."
+   },
+   "page": 1,
+   "quote": "Accordingly, Claims 39-70 are cancelled and any rejections\npertaining to such claims are now moot.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G74",
+   "origin": "model",
+   "model_finding_id": "F83",
+   "kind": "estoppel",
+   "doc_id": "I0IJNMZKPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     54,
+     60,
+     66,
+     68,
+     69,
+     70
+    ],
+    "limitation": "subject matter of claims 54, 60, 66, and 68-70 rejected under 35 U.S.C. §112 first paragraph",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicants cancelled claims 54, 60, 66, and 68-70 in response to a written description/enablement rejection under 35 U.S.C. §112, first paragraph, mooting that rejection."
+   },
+   "model_values": {
+    "claims": [
+     54,
+     60,
+     66,
+     68,
+     69,
+     70
+    ],
+    "limitation": "subject matter of claims 54, 60, 66, and 68-70 rejected under 35 U.S.C. §112 first paragraph",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicants cancelled claims 54, 60, 66, and 68-70 in response to a written description/enablement rejection under 35 U.S.C. §112, first paragraph, mooting that rejection."
+   },
+   "page": 2,
+   "quote": "Applicants have cancelled Claims 54, 60, 66 and 68-70, and the rejection of these claims is now\nmoot.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G75",
+   "origin": "model",
+   "model_finding_id": "F84",
+   "kind": "estoppel",
+   "doc_id": "I0IJNMZKPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70
+    ],
+    "limitation": "claims rejected under 35 U.S.C. §103(a) as unpatentable over prior art",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicants cancelled the claims that had been rejected as obvious over prior art in order to expedite allowance of the remaining claims, but expressly stated they do not acquiesce to the merits of the prior art rejections."
+   },
+   "model_values": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70
+    ],
+    "limitation": "claims rejected under 35 U.S.C. §103(a) as unpatentable over prior art",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "medium",
+    "distinguished_art": [],
+    "summary": "Applicants cancelled the claims that had been rejected as obvious over prior art in order to expedite allowance of the remaining claims, but expressly stated they do not acquiesce to the merits of the prior art rejections."
+   },
+   "page": 2,
+   "quote": "Applicants have\ncancelled such claims in an effort to expedite allowance of Claims 34 and 36-38. Although now\nmoot, Applicants do not acquiesce to the Examiner's prior art rejections.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G76",
+   "origin": "model",
+   "model_finding_id": "F85",
+   "kind": "estoppel",
+   "doc_id": "I0IJNMZKPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70
+    ],
+    "limitation": "cancelled claims/subject matter generally",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicants stated they do not donate or disclaim any claims or subject matter through the amendments, and reserved the right to pursue the original, previously pending, or unclaimed subject matter in future continuation applications."
+   },
+   "model_values": {
+    "claims": [
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70
+    ],
+    "limitation": "cancelled claims/subject matter generally",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicants stated they do not donate or disclaim any claims or subject matter through the amendments, and reserved the right to pursue the original, previously pending, or unclaimed subject matter in future continuation applications."
+   },
+   "page": 1,
+   "quote": "Applicants do not donate or disclaim any claims or subject matter with the claim\namendments made herein, and the Applicants expressly reserve the right to prosecute the original\nclaims",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G77",
+   "origin": "model",
+   "model_finding_id": "F87",
+   "kind": "examiners_amendment",
+   "doc_id": "I0TS44DBPXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "summary": "The examiner entered an after-final amendment filed September 25, 2014, and additionally made an examiner's amendment changing claim 38, line 2, \"its\" to \"a\". No separate statement of reasons for allowance box was checked; instead, the examiner noted prior art of record not relied upon (Seguin, Boretos, Ouriel, Lenker, Yang, Lambrecht, Hachtman, Thompson, Braunschweiler, Andersen) as pertinent to the disclosure, without providing specific reasons for allowance."
+   },
+   "model_values": {
+    "summary": "The examiner entered an after-final amendment filed September 25, 2014, and additionally made an examiner's amendment changing claim 38, line 2, \"its\" to \"a\". No separate statement of reasons for allowance box was checked; instead, the examiner noted prior art of record not relied upon (Seguin, Boretos, Ouriel, Lenker, Yang, Lambrecht, Hachtman, Thompson, Braunschweiler, Andersen) as pertinent to the disclosure, without providing specific reasons for allowance."
+   },
+   "page": 6,
+   "quote": "In claim 38, line 2, \"its\" has been changed to --a--.",
+   "error_tags": [],
+   "note": ""
+  }
+ ]
+}

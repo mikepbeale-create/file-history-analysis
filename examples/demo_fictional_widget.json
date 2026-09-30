@@ -1,0 +1,691 @@
+{
+ "app": {
+  "application_number": "99999999",
+  "patent_number": null,
+  "title": "Widget — fictional demo data (not a real patent)",
+  "filing_date": null,
+  "grant_date": null,
+  "examiner": null,
+  "art_unit": null,
+  "status": null
+ },
+ "documents": [
+  {
+   "doc_id": "CLM-A",
+   "code": "CLM",
+   "description": "Claims",
+   "official_date": "2020-01-10",
+   "direction": null,
+   "pdf_url": null,
+   "page_count": null,
+   "category": "claims"
+  },
+  {
+   "doc_id": "OA-1",
+   "code": "CTNF",
+   "description": "Non-Final Rejection",
+   "official_date": "2020-06-01",
+   "direction": null,
+   "pdf_url": null,
+   "page_count": null,
+   "category": "rejection"
+  },
+  {
+   "doc_id": "REM-1",
+   "code": "REM",
+   "description": "Remarks",
+   "official_date": "2020-09-01",
+   "direction": null,
+   "pdf_url": null,
+   "page_count": null,
+   "category": "response"
+  },
+  {
+   "doc_id": "CLM-B",
+   "code": "CLM",
+   "description": "Claims",
+   "official_date": "2020-09-01",
+   "direction": null,
+   "pdf_url": null,
+   "page_count": null,
+   "category": "claims"
+  },
+  {
+   "doc_id": "NOA-1",
+   "code": "NOA",
+   "description": "Notice of Allowance",
+   "official_date": "2021-01-05",
+   "direction": null,
+   "pdf_url": null,
+   "page_count": null,
+   "category": "allowance"
+  }
+ ],
+ "analyzed_doc_ids": [
+  "CLM-A",
+  "OA-1",
+  "REM-1",
+  "CLM-B",
+  "NOA-1"
+ ],
+ "extractions": {
+  "CLM-A": {
+   "claims": [
+    {
+     "number": 1,
+     "status": "original",
+     "independent": true,
+     "text": "A widget comprising: a housing; and a spring disposed within the housing.",
+     "citation": {
+      "doc_id": "CLM-A",
+      "page": 1,
+      "quote": "1. A widget comprising: a housing; and a spring disposed within the housing."
+     }
+    }
+   ]
+  },
+  "OA-1": {
+   "action_type": "non-final rejection",
+   "rejections": [
+    {
+     "claims": [
+      1
+     ],
+     "basis": "102",
+     "references": [
+      "Smith US 1,234,567"
+     ],
+     "summary": "Smith shows a housing and spring.",
+     "citation": {
+      "doc_id": "OA-1",
+      "page": 1,
+      "quote": "Smith discloses a widget comprising a housing (Fig. 2, element 10) and a spring"
+     }
+    }
+   ],
+   "allowable_claims": [],
+   "allowable_citation": null,
+   "summary": "Claim 1 rejected as anticipated by Smith.",
+   "summary_citation": {
+    "doc_id": "OA-1",
+    "page": 1,
+    "quote": "Claim 1 is rejected under 35 U.S.C. 102(a)(1) as being anticipated by Smith"
+   }
+  },
+  "REM-1": {
+   "amendments": [
+    {
+     "claim": 1,
+     "change": "Added coil spring, preloaded.",
+     "citation": {
+      "doc_id": "REM-1",
+      "page": 1,
+      "quote": "Applicant adds the limitation of a helical torsion spring made of steel"
+     }
+    }
+   ],
+   "estoppel": [
+    {
+     "claims": [
+      1
+     ],
+     "limitation": "spring",
+     "kind": "argument-based disclaimer",
+     "statement": "Disclaimed leaf springs.",
+     "distinguished_art": [
+      "Smith"
+     ],
+     "risk": "high",
+     "rationale": "Express statement excluding leaf springs.",
+     "citation": {
+      "doc_id": "REM-1",
+      "page": 2,
+      "quote": "The claimed invention is limited to a coil spring and does not encompass leaf springs"
+     }
+    }
+   ],
+   "summary": "Applicant amended claim 1 to recite a preloaded coil spring.",
+   "summary_citation": {
+    "doc_id": "REM-1",
+    "page": 1,
+    "quote": "Claim 1 has been amended. Support is found at paragraph [0021]."
+   }
+  },
+  "CLM-B": {
+   "claims": [
+    {
+     "number": 1,
+     "status": "currently amended",
+     "independent": true,
+     "text": "A widget comprising: a housing; and a coil spring disposed within the housing, wherein the coil spring is preloaded.",
+     "citation": {
+      "doc_id": "CLM-B",
+      "page": 1,
+      "quote": "1. (Currently Amended) A widget comprising: a housing; and a coil spring dispose"
+     }
+    }
+   ]
+  },
+  "NOA-1": {
+   "reasons": [
+    {
+     "point": "Preloaded coil spring in housing",
+     "claims": [
+      1
+     ],
+     "citation": {
+      "doc_id": "NOA-1",
+      "page": 1,
+      "quote": "a preloaded coil spring disposed within the housing as recited in claim 1"
+     }
+    }
+   ],
+   "examiners_amendment": null,
+   "examiners_amendment_citation": null,
+   "summary": "Allowed for preloaded coil spring.",
+   "summary_citation": {
+    "doc_id": "NOA-1",
+    "page": 1,
+    "quote": "The prior art of record does not teach or suggest a widget having a preloaded coil spring"
+   }
+  }
+ },
+ "errors": {},
+ "findings": [
+  {
+   "id": "F1",
+   "kind": "claim",
+   "doc_id": "CLM-A",
+   "doc_label": "2020-01-10 CLM – Claims",
+   "date": "2020-01-10",
+   "statement": "Claim 1 (original)",
+   "citation": {
+    "doc_id": "CLM-A",
+    "page": 1,
+    "quote": "1. A widget comprising: a housing; and a spring disposed within the housing."
+   },
+   "meta": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "independent": true
+   }
+  },
+  {
+   "id": "F2",
+   "kind": "action",
+   "doc_id": "OA-1",
+   "doc_label": "2020-06-01 CTNF – Non-Final Rejection",
+   "date": "2020-06-01",
+   "statement": "non-final rejection: Claim 1 rejected as anticipated by Smith.",
+   "citation": {
+    "doc_id": "OA-1",
+    "page": 1,
+    "quote": "Claim 1 is rejected under 35 U.S.C. 102(a)(1) as being anticipated by Smith"
+   },
+   "meta": {
+    "action_type": "non-final rejection"
+   }
+  },
+  {
+   "id": "F3",
+   "kind": "rejection",
+   "doc_id": "OA-1",
+   "doc_label": "2020-06-01 CTNF – Non-Final Rejection",
+   "date": "2020-06-01",
+   "statement": "Claims [1] rejected under 102 over Smith US 1,234,567: Smith shows a housing and spring.",
+   "citation": {
+    "doc_id": "OA-1",
+    "page": 1,
+    "quote": "Smith discloses a widget comprising a housing (Fig. 2, element 10) and a spring"
+   },
+   "meta": {
+    "claims": [
+     1
+    ],
+    "basis": "102",
+    "references": [
+     "Smith US 1,234,567"
+    ]
+   }
+  },
+  {
+   "id": "F4",
+   "kind": "response",
+   "doc_id": "REM-1",
+   "doc_label": "2020-09-01 REM – Remarks",
+   "date": "2020-09-01",
+   "statement": "Applicant amended claim 1 to recite a preloaded coil spring.",
+   "citation": {
+    "doc_id": "REM-1",
+    "page": 1,
+    "quote": "Claim 1 has been amended. Support is found at paragraph [0021]."
+   },
+   "meta": {}
+  },
+  {
+   "id": "F5",
+   "kind": "amendment",
+   "doc_id": "REM-1",
+   "doc_label": "2020-09-01 REM – Remarks",
+   "date": "2020-09-01",
+   "statement": "Claim 1: Added coil spring, preloaded.",
+   "citation": {
+    "doc_id": "REM-1",
+    "page": 1,
+    "quote": "Applicant adds the limitation of a helical torsion spring made of steel"
+   },
+   "meta": {
+    "claims": [
+     1
+    ]
+   }
+  },
+  {
+   "id": "F6",
+   "kind": "estoppel",
+   "doc_id": "REM-1",
+   "doc_label": "2020-09-01 REM – Remarks",
+   "date": "2020-09-01",
+   "statement": "[argument-based disclaimer] spring: Disclaimed leaf springs.",
+   "citation": {
+    "doc_id": "REM-1",
+    "page": 2,
+    "quote": "The claimed invention is limited to a coil spring and does not encompass leaf springs"
+   },
+   "meta": {
+    "claims": [
+     1
+    ],
+    "risk": "high",
+    "estoppel_type": "argument-based disclaimer",
+    "rationale": "Express statement excluding leaf springs.",
+    "limitation": "spring",
+    "distinguished_art": [
+     "Smith"
+    ]
+   }
+  },
+  {
+   "id": "F7",
+   "kind": "claim",
+   "doc_id": "CLM-B",
+   "doc_label": "2020-09-01 CLM – Claims",
+   "date": "2020-09-01",
+   "statement": "Claim 1 (currently amended)",
+   "citation": {
+    "doc_id": "CLM-B",
+    "page": 1,
+    "quote": "1. (Currently Amended) A widget comprising: a housing; and a coil spring dispose"
+   },
+   "meta": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "independent": true
+   }
+  },
+  {
+   "id": "F8",
+   "kind": "allowance",
+   "doc_id": "NOA-1",
+   "doc_label": "2021-01-05 NOA – Notice of Allowance",
+   "date": "2021-01-05",
+   "statement": "Allowed for preloaded coil spring.",
+   "citation": {
+    "doc_id": "NOA-1",
+    "page": 1,
+    "quote": "The prior art of record does not teach or suggest a widget having a preloaded coil spring"
+   },
+   "meta": {}
+  },
+  {
+   "id": "F9",
+   "kind": "allowance_reason",
+   "doc_id": "NOA-1",
+   "doc_label": "2021-01-05 NOA – Notice of Allowance",
+   "date": "2021-01-05",
+   "statement": "Preloaded coil spring in housing",
+   "citation": {
+    "doc_id": "NOA-1",
+    "page": 1,
+    "quote": "a preloaded coil spring disposed within the housing as recited in claim 1"
+   },
+   "meta": {
+    "claims": [
+     1
+    ]
+   }
+  }
+ ],
+ "claim_histories": [
+  {
+   "number": 1,
+   "snapshots": [
+    {
+     "number": 1,
+     "doc_id": "CLM-A",
+     "date": "2020-01-10",
+     "status": "original",
+     "text": "A widget comprising: a housing; and a spring disposed within the housing."
+    },
+    {
+     "number": 1,
+     "doc_id": "CLM-B",
+     "date": "2020-09-01",
+     "status": "currently amended",
+     "text": "A widget comprising: a housing; and a coil spring disposed within the housing, wherein the coil spring is preloaded."
+    }
+   ],
+   "changes": [
+    {
+     "from_doc": null,
+     "to_doc": "CLM-A",
+     "date": "2020-01-10",
+     "status": "original",
+     "added": [],
+     "removed": [],
+     "diff_html": "A widget comprising: a housing; and a spring disposed within the housing.",
+     "similarity": 1.0,
+     "noise_suspect": false
+    },
+    {
+     "from_doc": "CLM-A",
+     "to_doc": "CLM-B",
+     "date": "2020-09-01",
+     "status": "currently amended",
+     "added": [
+      "coil",
+      ", wherein the coil spring is preloaded"
+     ],
+     "removed": [],
+     "diff_html": "A widget comprising: a housing; and a <ins class=\"add\">coil</ins> spring disposed within the housing<ins class=\"add\">, wherein the coil spring is preloaded</ins>.",
+     "similarity": 0.789,
+     "noise_suspect": false
+    }
+   ]
+  }
+ ],
+ "synthesis": {
+  "overview": "Claim 1 was narrowed to a preloaded coil spring to overcome Smith.",
+  "key_points": [
+   {
+    "text": "Leaf springs disclaimed.",
+    "support": [
+     "F6"
+    ]
+   },
+   {
+    "text": "Made-up point.",
+    "support": [
+     "F999"
+    ]
+   }
+  ]
+ },
+ "grounding": {
+  "checks": {
+   "F1": {
+    "finding_id": "F1",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "1. A widget comprising: a housing; and a spring disposed within the housing.",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F2": {
+    "finding_id": "F2",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "Claim 1 is rejected under 35 U.S.C. 102(a)(1) as being anticipated by Smith",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F3": {
+    "finding_id": "F3",
+    "status": "wrong_page",
+    "score": 100.0,
+    "matched_page": 2,
+    "matched_text": "Smith discloses a widget comprising a housing (Fig. 2, element 10) and a spring",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F4": {
+    "finding_id": "F4",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "Claim 1 has been amended. Support is found at paragraph [0021].",
+    "short_quote": false,
+    "page_ocr_confidence": 55.0,
+    "low_quality_page": true,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F5": {
+    "finding_id": "F5",
+    "status": "unverified",
+    "score": 54.92957746478873,
+    "matched_page": null,
+    "matched_text": null,
+    "short_quote": false,
+    "page_ocr_confidence": 55.0,
+    "low_quality_page": true,
+    "support": null,
+    "support_reason": null
+   },
+   "F6": {
+    "finding_id": "F6",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 2,
+    "matched_text": "The claimed invention is limited to a coil spring and does not encompass leaf springs",
+    "short_quote": false,
+    "page_ocr_confidence": 55.0,
+    "low_quality_page": true,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F7": {
+    "finding_id": "F7",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "1. (Currently Amended) A widget comprising: a housing; and a coil spring dispose",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F8": {
+    "finding_id": "F8",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "The prior art of record does not teach or suggest a widget having a preloaded coil spring",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   },
+   "F9": {
+    "finding_id": "F9",
+    "status": "verified",
+    "score": 100.0,
+    "matched_page": 1,
+    "matched_text": "a preloaded coil spring disposed within the housing as recited in claim 1",
+    "short_quote": false,
+    "page_ocr_confidence": 92.0,
+    "low_quality_page": false,
+    "support": "supported",
+    "support_reason": "ok"
+   }
+  },
+  "totals": {
+   "verified": 7,
+   "wrong_page": 1,
+   "unverified": 1
+  },
+  "rate_verified": 0.778,
+  "rate_grounded": 0.889,
+  "by_kind": {
+   "claim": {
+    "verified": 2
+   },
+   "action": {
+    "verified": 1
+   },
+   "rejection": {
+    "wrong_page": 1
+   },
+   "response": {
+    "verified": 1
+   },
+   "amendment": {
+    "unverified": 1
+   },
+   "estoppel": {
+    "verified": 1
+   },
+   "allowance": {
+    "verified": 1
+   },
+   "allowance_reason": {
+    "verified": 1
+   }
+  },
+  "by_doc": {
+   "2020-01-10 CLM – Claims": {
+    "verified": 1
+   },
+   "2020-06-01 CTNF – Non-Final Rejection": {
+    "verified": 1,
+    "wrong_page": 1
+   },
+   "2020-09-01 REM – Remarks": {
+    "verified": 2,
+    "unverified": 1
+   },
+   "2020-09-01 CLM – Claims": {
+    "verified": 1
+   },
+   "2021-01-05 NOA – Notice of Allowance": {
+    "verified": 2
+   }
+  },
+  "low_quality_share_of_failures": 1.0,
+  "support_totals": {
+   "supported": 8
+  },
+  "synthesis": {
+   "points": 2,
+   "points_without_valid_support": 1,
+   "dangling_ids": [
+    "F999"
+   ],
+   "points_anchored_to_verified_quote": 1
+  }
+ },
+ "ocr": {
+  "pages": 7,
+  "ocr_pages": 7,
+  "text_layer_pages": 0,
+  "low_quality_pages": 2,
+  "mean_ocr_confidence": 81.4
+ },
+ "usage": {
+  "calls": 7,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cache_read_tokens": 0,
+  "retries": 0
+ },
+ "texts": {
+  "CLM-A": {
+   "doc_id": "CLM-A",
+   "pages": [
+    {
+     "page": 1,
+     "text": "1. A widget comprising: a housing; and a spring disposed within the housing.",
+     "method": "ocr",
+     "confidence": 92.0
+    }
+   ]
+  },
+  "OA-1": {
+   "doc_id": "OA-1",
+   "pages": [
+    {
+     "page": 1,
+     "text": "DETAILED ACTION. Claim Rejections - 35 USC 102. Claim 1 is rejected under 35 U.S.C. 102(a)(1) as being anticipated by Smith (US 1,234,567).",
+     "method": "ocr",
+     "confidence": 92.0
+    },
+    {
+     "page": 2,
+     "text": "Smith discloses a widget comprising a housing (Fig. 2, element 10) and a spring disposed within the housing (element 12). Therefore claim 1 is anticipated.",
+     "method": "ocr",
+     "confidence": 92.0
+    }
+   ]
+  },
+  "REM-1": {
+   "doc_id": "REM-1",
+   "pages": [
+    {
+     "page": 1,
+     "text": "REMARKS. Claim 1 has been amended. Support is found at paragraph [0021].",
+     "method": "ocr",
+     "confidence": 55.0
+    },
+    {
+     "page": 2,
+     "text": "Smith's element 12 is a leaf spring. The claimed invention is limited to a coil spring and does not encompass leaf springs, which cannot be preloaded as claimed.",
+     "method": "ocr",
+     "confidence": 55.0
+    }
+   ]
+  },
+  "CLM-B": {
+   "doc_id": "CLM-B",
+   "pages": [
+    {
+     "page": 1,
+     "text": "1. (Currently Amended) A widget comprising: a housing; and a coil spring disposed within the housing, wherein the coil spring is preloaded.",
+     "method": "ocr",
+     "confidence": 92.0
+    }
+   ]
+  },
+  "NOA-1": {
+   "doc_id": "NOA-1",
+   "pages": [
+    {
+     "page": 1,
+     "text": "REASONS FOR ALLOWANCE. The prior art of record does not teach or suggest a widget having a preloaded coil spring disposed within the housing as recited in claim 1.",
+     "method": "ocr",
+     "confidence": 92.0
+    }
+   ]
+  }
+ },
+ "pdf_dir": null,
+ "model": "fake-model",
+ "prompt_version": "2026-09-25.1",
+ "created": "2026-09-25T15:37:19.188917+00:00"
+}

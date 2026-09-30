@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fh-analyzer"
+version = "0.1.0"
+description = "Pull a US patent's file history from the USPTO Open Data Portal, OCR it, and extract a grounded prosecution analysis with an LLM."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "anthropic>=0.40",
+    "httpx>=0.27",
+    "pydantic>=2.6",
+    "pymupdf>=1.24",
+    "pytesseract>=0.3.10",
+    "Pillow>=10",
+    "rapidfuzz>=3.6",
+    "python-dotenv>=1.0",
+    "streamlit>=1.45",
+    "pandas>=2.0",
+    "tabulate>=0.9",
+    "pyyaml>=6",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "respx>=0.21", "ruff>=0.5"]
+
+[project.scripts]
+fh-analyze = "fh_analyzer.cli:main"
+fh-score = "fh_analyzer.score_cli:main"
+fh-costs = "fh_analyzer.costs_cli:main"
+fh-experiment = "fh_analyzer.experiment_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+fh_analyzer = ["pricing.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

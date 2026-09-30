@@ -1,0 +1,27 @@
+# fh-experiment experiments/model_sweep.yaml --dry-run    (see the configurations + rough cost)
+# fh-experiment experiments/model_sweep.yaml              (run, score, chart -> runs/model-sweep/)
+#
+# Every combination of the `grid` lists is one configuration. Options not in the grid
+# come from `fixed`, then the defaults (model from FHA_MODEL, current prompt version).
+#
+# Options:
+#   model               any model id in src/fh_analyzer/pricing.json
+#   prompt              a registered version (see prompts.REGISTRY) or a folder of .txt prompts
+#   completeness_retry  true/false: re-ask when the regex tripwires say something was missed
+#   strict              true/false: API-enforced tool schema (structured outputs)
+#   judge               false | true (same model) | a model id: LLM check of each citation
+#   max_tokens          output cap per call
+name: model-sweep
+
+grid:
+  model: [claude-sonnet-5, claude-haiku-4-5, claude-opus-5-5]
+  prompt: [2026-09-25.2, 2026-09-25.2-no-rule3]
+
+fixed:
+  completeness_retry: true
+  judge: false
+
+patents: all        # every gold/*.json with reviewed documents; or a list of application numbers
+docs: all           # all = true cost per patent; reviewed = only scored docs (cheaper)
+repeats: 1          # >1 measures run-to-run noise
+budget_usd: 25      # stop the experiment once this much has been spent (re-run resumes)

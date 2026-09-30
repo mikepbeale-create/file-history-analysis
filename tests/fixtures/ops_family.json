@@ -1,0 +1,530 @@
+{
+ "ops:world-patent-data": {
+  "ops:patent-family": {
+   "@total-result-count": "6",
+   "ops:family-member": [
+    {
+     "@family-id": "111",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "US"
+        },
+        "doc-number": {
+         "$": "2015099999"
+        },
+        "kind": {
+         "$": "A1"
+        },
+        "date": {
+         "$": "20150101"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "US"
+       },
+       "doc-number": {
+        "$": "99999999"
+       },
+       "kind": {
+        "$": "A"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "@family-id": "111",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "US"
+        },
+        "doc-number": {
+         "$": "9999999"
+        },
+        "kind": {
+         "$": "B2"
+        },
+        "date": {
+         "$": "20180605"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "US"
+       },
+       "doc-number": {
+        "$": "99999999"
+       },
+       "kind": {
+        "$": "A"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ],
+       "references-cited": {
+        "citation": [
+         {
+          "@cited-phase": "examination",
+          "@cited-by": "examiner",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "US"
+             },
+             "doc-number": {
+              "$": "1234567"
+             },
+             "kind": {
+              "$": "A"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "US1234567"
+             }
+            }
+           ]
+          }
+         },
+         {
+          "@cited-phase": "applicant",
+          "@cited-by": "applicant",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "US"
+             },
+             "doc-number": {
+              "$": "2005123456"
+             },
+             "kind": {
+              "$": "A1"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "US2005123456"
+             }
+            }
+           ]
+          }
+         }
+        ]
+       }
+      }
+     }
+    },
+    {
+     "@family-id": "111",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "EP"
+        },
+        "doc-number": {
+         "$": "2999999"
+        },
+        "kind": {
+         "$": "A1"
+        },
+        "date": {
+         "$": "20150701"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "EP"
+       },
+       "doc-number": {
+        "$": "14999999"
+       },
+       "kind": {
+        "$": "A"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ],
+       "references-cited": {
+        "citation": [
+         {
+          "@cited-phase": "search",
+          "@cited-by": "examiner",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "EP"
+             },
+             "doc-number": {
+              "$": "1111111"
+             },
+             "kind": {
+              "$": "A1"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "EP1111111"
+             }
+            }
+           ]
+          },
+          "category": {
+           "$": "X"
+          },
+          "rel-claims": {
+           "$": "1-15"
+          },
+          "rel-passage": {
+           "passage": {
+            "$": "* paragraph [0021] - paragraph [0030]; figure 2 *"
+           }
+          }
+         },
+         {
+          "@cited-phase": "search",
+          "@cited-by": "examiner",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "US"
+             },
+             "doc-number": {
+              "$": "2005123456"
+             },
+             "kind": {
+              "$": "A1"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "US2005123456"
+             }
+            }
+           ]
+          },
+          "category": {
+           "$": "Y"
+          },
+          "rel-claims": {
+           "$": "3-5"
+          }
+         },
+         {
+          "@cited-phase": "search",
+          "nplcit": {
+           "text": {
+            "$": "DOE J: 'Springs in housings', JOURNAL OF WIDGETS, vol. 3, 2011, pages 1-9"
+           }
+          },
+          "category": {
+           "$": "A"
+          }
+         }
+        ]
+       }
+      }
+     }
+    },
+    {
+     "@family-id": "111",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "WO"
+        },
+        "doc-number": {
+         "$": "2014099999"
+        },
+        "kind": {
+         "$": "A1"
+        },
+        "date": {
+         "$": "20140601"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "EP"
+       },
+       "doc-number": {
+        "$": "2014099999"
+       },
+       "kind": {
+        "$": "W"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ],
+       "references-cited": {
+        "citation": [
+         {
+          "@cited-phase": "international-search-report",
+          "@cited-by": "examiner",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "EP"
+             },
+             "doc-number": {
+              "$": "1111111"
+             },
+             "kind": {
+              "$": "A1"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "EP1111111"
+             }
+            }
+           ]
+          },
+          "category": [
+           {
+            "$": "X"
+           },
+           {
+            "$": "Y"
+           }
+          ]
+         },
+         {
+          "@cited-phase": "international-search-report",
+          "@cited-by": "examiner",
+          "patcit": {
+           "@num": "1",
+           "document-id": [
+            {
+             "@document-id-type": "docdb",
+             "country": {
+              "$": "JP"
+             },
+             "doc-number": {
+              "$": "2010123456"
+             },
+             "kind": {
+              "$": "A"
+             }
+            },
+            {
+             "@document-id-type": "epodoc",
+             "doc-number": {
+              "$": "JP2010123456"
+             }
+            }
+           ]
+          },
+          "category": {
+           "$": "Y"
+          }
+         }
+        ]
+       }
+      }
+     }
+    },
+    {
+     "@family-id": "222",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "CN"
+        },
+        "doc-number": {
+         "$": "109999999"
+        },
+        "kind": {
+         "$": "A"
+        },
+        "date": {
+         "$": "20190101"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "CN"
+       },
+       "doc-number": {
+        "$": "201910099999"
+       },
+       "kind": {
+        "$": "A"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ],
+       "references-cited": {
+        "citation": {
+         "@cited-phase": "search",
+         "@cited-by": "examiner",
+         "patcit": {
+          "@num": "1",
+          "document-id": [
+           {
+            "@document-id-type": "docdb",
+            "country": {
+             "$": "KR"
+            },
+            "doc-number": {
+             "$": "20100012345"
+            },
+            "kind": {
+             "$": "A"
+            }
+           },
+           {
+            "@document-id-type": "epodoc",
+            "doc-number": {
+             "$": "KR20100012345"
+            }
+           }
+          ]
+         },
+         "category": {
+          "$": "A"
+         }
+        }
+       }
+      }
+     }
+    },
+    {
+     "@family-id": "111",
+     "publication-reference": {
+      "document-id": [
+       {
+        "@document-id-type": "docdb",
+        "country": {
+         "$": "JP"
+        },
+        "doc-number": {
+         "$": "2016599999"
+        },
+        "kind": {
+         "$": "A"
+        },
+        "date": {
+         "$": "20160101"
+        }
+       }
+      ]
+     },
+     "application-reference": {
+      "document-id": {
+       "@document-id-type": "docdb",
+       "country": {
+        "$": "JP"
+       },
+       "doc-number": {
+        "$": "2015599999"
+       },
+       "kind": {
+        "$": "A"
+       }
+      }
+     },
+     "exchange-document": {
+      "bibliographic-data": {
+       "invention-title": [
+        {
+         "@lang": "en",
+         "$": "Widget with preloaded spring"
+        }
+       ]
+      }
+     }
+    }
+   ]
+  }
+ }
+}

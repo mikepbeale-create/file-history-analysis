@@ -1,0 +1,1173 @@
+{
+ "application_number": "16383565",
+ "patent_number": "10469966",
+ "title": "Zone Scene Management",
+ "labeler": "mb",
+ "source_model": "claude-sonnet-5",
+ "source_prompt_version": "2026-09-25.2",
+ "source_analysis_created": "2026-09-30T14:20:17.457175+00:00",
+ "created": "2026-09-30T18:13:33+00:00",
+ "updated": "2026-09-30T18:32:18+00:00",
+ "docs": {
+  "JUEYAF48RXEAPX3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:13:51+00:00",
+   "reviewed_at": "2026-09-30T18:30:42+00:00",
+   "note": ""
+  },
+  "JXM1DW9DRXEAPX3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:30:42+00:00",
+   "reviewed_at": "2026-09-30T18:31:03+00:00",
+   "note": ""
+  },
+  "JXM1DW9ERXEAPX3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:31:03+00:00",
+   "reviewed_at": "2026-09-30T18:31:06+00:00",
+   "note": ""
+  },
+  "JZOW2570RXEAPX1": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:31:06+00:00",
+   "reviewed_at": "2026-09-30T18:31:13+00:00",
+   "note": ""
+  },
+  "JZOW2572RXEAPX1": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:31:13+00:00",
+   "reviewed_at": "2026-09-30T18:31:22+00:00",
+   "note": ""
+  },
+  "JZOW2573RXEAPX1": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:31:22+00:00",
+   "reviewed_at": "2026-09-30T18:32:07+00:00",
+   "note": ""
+  },
+  "K03SDYO2RXEAPX4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:32:07+00:00",
+   "reviewed_at": "2026-09-30T18:32:16+00:00",
+   "note": ""
+  },
+  "K03SDYO4RXEAPX4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:32:16+00:00",
+   "reviewed_at": "2026-09-30T18:32:18+00:00",
+   "note": ""
+  }
+ },
+ "items": [
+  {
+   "id": "G1",
+   "origin": "model",
+   "model_finding_id": "F1",
+   "kind": "claim",
+   "doc_id": "JUEYAF48RXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A computing device comprising: one or more processors; a non-transitory computer-readable medium; and program instructions stored on the non-transitory computer-readable medium that, when executed by the one or more processors, cause the computing device to perform functions comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A computing device comprising: one or more processors; a non-transitory computer-readable medium; and program instructions stored on the non-transitory computer-readable medium that, when executed by the one or more processors, cause the computing device to perform functions comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "page": 1,
+   "quote": "A computing device comprising: one or more processors; a non-transitory computer-readable medium; and program instructions stored on the non-transitory computer-readable medium that, when",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "origin": "model",
+   "model_finding_id": "F2",
+   "kind": "claim",
+   "doc_id": "JUEYAF48RXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "status": "original",
+    "text": "A non-transitory computer-readable medium, wherein the non-transitory computer-readable medium is provisioned with program instructions that are executable to cause a computing device to perform functions comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "status": "original",
+    "text": "A non-transitory computer-readable medium, wherein the non-transitory computer-readable medium is provisioned with program instructions that are executable to cause a computing device to perform functions comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "page": 3,
+   "quote": "A non-transitory computer-readable medium, wherein the non-transitory computer-readable medium is provisioned with program instructions that are executable to cause a computing device",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "origin": "model",
+   "model_finding_id": "F3",
+   "kind": "claim",
+   "doc_id": "JUEYAF48RXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     17
+    ],
+    "status": "original",
+    "text": "A method executed by a computing device, the method comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "model_values": {
+    "claims": [
+     17
+    ],
+    "status": "original",
+    "text": "A method executed by a computing device, the method comprising: while serving as a controller for a media playback system having a plurality of zones that each comprise at least one playback device, receiving a first request to create a first zone scene comprising a first preconfigured grouping of zones including at least a first zone and a second zone that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, i) causing creation of the first zone scene, and ii) causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second preconfigured grouping of zones including at least the first zone and a third zone that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone is different than the second zone; based on the second request, i) causing creation of the second zone scene, and ii) causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone scene to be invoked such that the first zone and the second zone become configured for synchronous playback of media."
+   },
+   "page": 6,
+   "quote": "A method executed by a computing device, the method comprising: while serving as a controller for a media playback system having a plurality of zones that",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "origin": "model",
+   "model_finding_id": "F5",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "All claims 1-20 are rejected as unpatentable over the Yamaha DME Designer manual, which the examiner reads as teaching a controller for a media playback system with zones, creation/storage/display/invocation of zone scenes; examiner also takes official notice that inclusion/exclusion of particular players from a grouping was well known and would have been an obvious matter of routine experimentation."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "All claims 1-20 are rejected as unpatentable over the Yamaha DME Designer manual, which the examiner reads as teaching a controller for a media playback system with zones, creation/storage/display/invocation of zone scenes; examiner also takes official notice that inclusion/exclusion of particular players from a grouping was well known and would have been an obvious matter of routine experimentation."
+   },
+   "page": 4,
+   "quote": "Claims 1-20 rejected under 35 U.S.C. 103 as being unpatentable over Yamaha DME Designer (manual provided by Examiner, copyright 2004 and hereinafter DME).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "origin": "model",
+   "model_finding_id": "F6",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches a computing device/method/medium for controlling zone scenes including receiving requests to create first and second zone scenes, displaying representations of the scenes, and invoking a scene; examiner takes official notice that grouping/sub-grouping of players to include or exclude particular players would have been an obvious matter of routine experimentation."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches a computing device/method/medium for controlling zone scenes including receiving requests to create first and second zone scenes, displaying representations of the scenes, and invoking a scene; examiner takes official notice that grouping/sub-grouping of players to include or exclude particular players would have been an obvious matter of routine experimentation."
+   },
+   "page": 5,
+   "quote": "the grouping and sub-grouping of a constellation of audio players to include or disclude particular players from an operational set was well known in the art before the effective filing date of the instant invention and would have been an obvious inclusion.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "origin": "model",
+   "model_finding_id": "F7",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2,
+     10,
+     18
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests receiving a fourth request to invoke the second zone scene causing the first and third zones to become configured for synchronous playback while the first and second zones become unconfigured, via controller-operated stored scenes/configurations."
+   },
+   "model_values": {
+    "claims": [
+     2,
+     10,
+     18
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests receiving a fourth request to invoke the second zone scene causing the first and third zones to become configured for synchronous playback while the first and second zones become unconfigured, via controller-operated stored scenes/configurations."
+   },
+   "page": 6,
+   "quote": "an invoked one of plural stored scene or configuration comprising a particular set of zone players in particular channel configurations and user Operative control by mapped external MIDI, GPI, DAW, AMX/Crestron, head amp type device controllers",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "origin": "model",
+   "model_finding_id": "F8",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     3,
+     4,
+     11,
+     12,
+     19,
+     20
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests storage of the first and second zone scenes at a location other than the computing device, based on scenes saved at any of the plural playback devices via a recording interface."
+   },
+   "model_values": {
+    "claims": [
+     3,
+     4,
+     11,
+     12,
+     19,
+     20
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests storage of the first and second zone scenes at a location other than the computing device, based on scenes saved at any of the plural playback devices via a recording interface."
+   },
+   "page": 6,
+   "quote": "scene or configuration saved at any of the plural playback devices based on user operation of a recording interface",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "origin": "model",
+   "model_finding_id": "F9",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     13
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first zone scene includes an indication of predetermined media (e.g., WAV files) to be played when invoked, with synchronous playback of that predetermined media upon the third request."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     13
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first zone scene includes an indication of predetermined media (e.g., WAV files) to be played when invoked, with synchronous playback of that predetermined media upon the third request."
+   },
+   "page": 7,
+   "quote": "particular parameters may be saved with a scene or configuration, the parameters including routings for particular audio streams, said streams including WAV file(s) to be played when the scene is invoked",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "origin": "model",
+   "model_finding_id": "F10",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     6,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first grouping does not include the third zone and the second grouping does not include the second zone; configuration of zones is a set of user-controllable groupings, and such groupings would have been obvious as routine experimentation."
+   },
+   "model_values": {
+    "claims": [
+     6,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first grouping does not include the third zone and the second grouping does not include the second zone; configuration of zones is a set of user-controllable groupings, and such groupings would have been obvious as routine experimentation."
+   },
+   "page": 7,
+   "quote": "Configuration of zones exists as a Set of user controllable groupings of plural playback devices.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "origin": "model",
+   "model_finding_id": "F11",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7,
+     15
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests receiving, before displaying the scene representations, data defining the first and second zone scenes from another device over a data network."
+   },
+   "model_values": {
+    "claims": [
+     7,
+     15
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests receiving, before displaying the scene representations, data defining the first and second zone scenes from another device over a data network."
+   },
+   "page": 8,
+   "quote": "receiving, from another device over a data network, data defining the first zone scene and data defining the second zone scene",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "origin": "model",
+   "model_finding_id": "F12",
+   "kind": "rejection",
+   "doc_id": "JXM1DW9DRXEAPX3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     8,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first, second, and third requests are each received via sets of one or more inputs through a user interface of the computing device, controlled by mapped external device controllers."
+   },
+   "model_values": {
+    "claims": [
+     8,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Yamaha DME Designer (manual provided by Examiner, copyright 2004)"
+    ],
+    "summary": "DME teaches or suggests that the first, second, and third requests are each received via sets of one or more inputs through a user interface of the computing device, controlled by mapped external device controllers."
+   },
+   "page": 9,
+   "quote": "an invoked one of plural stored scene or configuration comprising a particular set of zone players in particular channel configurations and user operative control by mapped external",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "origin": "model",
+   "model_finding_id": "F15",
+   "kind": "claim",
+   "doc_id": "JZOW2572RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "A computing device comprising: one or more processors; a non-transitory computer-readable medium; and program instructions stored on the non-transitory computer-readable medium that, when executed by the one or more processors, cause the computing device to perform functions comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to be configured to coordinate with at least the second zone player."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "A computing device comprising: one or more processors; a non-transitory computer-readable medium; and program instructions stored on the non-transitory computer-readable medium that, when executed by the one or more processors, cause the computing device to perform functions comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to be configured to coordinate with at least the second zone player."
+   },
+   "page": 1,
+   "quote": "1. (Currently Amended) A computing device comprising:\none or more processors;\na non-transitory computer-readable medium; and",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "origin": "model",
+   "model_finding_id": "F16",
+   "kind": "claim",
+   "doc_id": "JZOW2572RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "status": "currently amended",
+    "text": "A non-transitory computer-readable medium, wherein the non-transitory computer-readable medium is provisioned with program instructions that are executable to cause a computing device to perform functions comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to transition from operating in the standalone mode to operating in accordance with the first zone scene such that the first zone player is configured to coordinate with at least the second zone player."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "status": "currently amended",
+    "text": "A non-transitory computer-readable medium, wherein the non-transitory computer-readable medium is provisioned with program instructions that are executable to cause a computing device to perform functions comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to transition from operating in the standalone mode to operating in accordance with the first zone scene such that the first zone player is configured to coordinate with at least the second zone player."
+   },
+   "page": 5,
+   "quote": "9. (Currently Amended) A non-transitory computer-readable medium, wherein the nontransitory computer-readable medium is provisioned with program instructions that are",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "origin": "model",
+   "model_finding_id": "F17",
+   "kind": "claim",
+   "doc_id": "JZOW2572RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     17
+    ],
+    "status": "currently amended",
+    "text": "A method executed by a computing device, the method comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to be configured to coordinate with at least the second zone player."
+   },
+   "model_values": {
+    "claims": [
+     17
+    ],
+    "status": "currently amended",
+    "text": "A method executed by a computing device, the method comprising: while serving as a controller for a networked media playback system, receiving a first request to create a first zone scene comprising a first predefined grouping of zone players including at least the first zone player and a second zone player that are to be configured for synchronous playback of media when the first zone scene is invoked; based on the first request, causing creation of the first zone scene, and causing storage of the first zone scene; receiving a second request to create a second zone scene comprising a second predefined grouping of zone players including at least the first zone player and a third zone player that are to be configured for synchronous playback of media when the second zone scene is invoked, wherein the third zone player is different than the second zone player; based on the second request, causing creation of the second zone scene, and causing storage of the second zone scene; displaying a representation of the first zone scene and a representation of the second zone scene; and while displaying the representation of the first zone scene and the representation of the second zone scene, receiving a third request to invoke the first zone scene; and based on the third request, causing the first zone player to be configured to coordinate with at least the second zone player."
+   },
+   "page": 8,
+   "quote": "17. (Currently Amended) A method executed by a computing device, the method comprising:\nwhile serving as a controller for a networked media playback system",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "origin": "model",
+   "model_finding_id": "F19",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to require, among other things, that the invention operates 'while serving as a controller for a networked media playback system' with a first zone player operating in a standalone mode, receiving first and second requests to create first and second zone scenes, causing creation and transmission of indications of those scenes to the first zone player, and causing the first zone player to transition from standalone mode to operating in accordance with a first predefined grouping of zone players based on a third request; also amended terminology from 'playback device' to 'first zone player'."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to require, among other things, that the invention operates 'while serving as a controller for a networked media playback system' with a first zone player operating in a standalone mode, receiving first and second requests to create first and second zone scenes, causing creation and transmission of indications of those scenes to the first zone player, and causing the first zone player to transition from standalone mode to operating in accordance with a first predefined grouping of zone players based on a third request; also amended terminology from 'playback device' to 'first zone player'."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "origin": "model",
+   "model_finding_id": "F20",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "change": "Amended with the same standalone-mode/zone-scene-creation/transition limitations as claim 1, applied as an independent claim."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "change": "Amended with the same standalone-mode/zone-scene-creation/transition limitations as claim 1, applied as an independent claim."
+   },
+   "page": 2,
+   "quote": "As noted above, the Examiner rejected independent claims 1, 9, and 17 under § 103 as\nunpatentable over the DME Manual.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "origin": "model",
+   "model_finding_id": "F21",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     17
+    ],
+    "change": "Amended with the same standalone-mode/zone-scene-creation/transition limitations as claim 1, applied as an independent claim."
+   },
+   "model_values": {
+    "claims": [
+     17
+    ],
+    "change": "Amended with the same standalone-mode/zone-scene-creation/transition limitations as claim 1, applied as an independent claim."
+   },
+   "page": 3,
+   "quote": "In the Action, the Examiner construed a \"DME unit\" or an \"SP2060 unit\" in the DME\nManual to the playback device (currently amended to the first zone player) found in Applicant's\nclaims.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "origin": "model",
+   "model_finding_id": "F22",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2
+    ],
+    "change": "Dependent claim amended in conjunction with independent claim 1 amendments; no specific limitation detailed beyond general amendment list."
+   },
+   "model_values": {
+    "claims": [
+     2
+    ],
+    "change": "Dependent claim amended in conjunction with independent claim 1 amendments; no specific limitation detailed beyond general amendment list."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "origin": "model",
+   "model_finding_id": "F23",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     4
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     4
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "origin": "model",
+   "model_finding_id": "F24",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     5
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "origin": "model",
+   "model_finding_id": "F25",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     6
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     6
+    ],
+    "change": "Dependent claim amended along with claim 1 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "origin": "model",
+   "model_finding_id": "F26",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "origin": "model",
+   "model_finding_id": "F27",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "origin": "model",
+   "model_finding_id": "F28",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     13
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     13
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "origin": "model",
+   "model_finding_id": "F29",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     14
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     14
+    ],
+    "change": "Dependent claim amended along with claim 9 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "origin": "model",
+   "model_finding_id": "F30",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     18
+    ],
+    "change": "Dependent claim amended along with claim 17 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     18
+    ],
+    "change": "Dependent claim amended along with claim 17 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "origin": "model",
+   "model_finding_id": "F31",
+   "kind": "amendment",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     20
+    ],
+    "change": "Dependent claim amended along with claim 17 group; specific limitation not separately detailed."
+   },
+   "model_values": {
+    "claims": [
+     20
+    ],
+    "change": "Dependent claim amended along with claim 17 group; specific limitation not separately detailed."
+   },
+   "page": 1,
+   "quote": "Applicant has amended claims 1, 2, 4-6, 9, 10, 12-14, 17, 18, and 20.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "origin": "model",
+   "model_finding_id": "F32",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "receiving requests to create first and second zone scenes while first zone player operates in standalone mode, and transitioning the first zone player from standalone mode to a predefined grouping based on a third request",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant amended independent claims 1, 9, and 17 to add standalone-mode operation, zone-scene creation requests, and transition-to-grouping limitations, replacing 'playback device' with 'first zone player', specifically to overcome the § 103 rejection based on the DME Manual."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "receiving requests to create first and second zone scenes while first zone player operates in standalone mode, and transitioning the first zone player from standalone mode to a predefined grouping based on a third request",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant amended independent claims 1, 9, and 17 to add standalone-mode operation, zone-scene creation requests, and transition-to-grouping limitations, replacing 'playback device' with 'first zone player', specifically to overcome the § 103 rejection based on the DME Manual."
+   },
+   "page": 2,
+   "quote": "wherein the first zone player is operating in a standalone mode .. .\nreceiving a first request to create a first zone scene. . .;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "origin": "model",
+   "model_finding_id": "F33",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "DME Scene / device group re-grouping capability",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant argued that the DME Manual's device groups cannot be re-grouped via scene recall, asserting individual devices cannot be assigned to multiple or overlapping device groups, distinguishing the claimed invention's ability to transition a zone player from standalone mode to a grouping based on a scene-related request."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "DME Scene / device group re-grouping capability",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant argued that the DME Manual's device groups cannot be re-grouped via scene recall, asserting individual devices cannot be assigned to multiple or overlapping device groups, distinguishing the claimed invention's ability to transition a zone player from standalone mode to a grouping based on a scene-related request."
+   },
+   "page": 3,
+   "quote": "Thus, DME Scenes\ncan be configured/stored/recalled within a given DME device group that is already established—\nbut the DME Manual does not suggest that recalling a DME Scene can re-group individual devices\ninto different DME device groups.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "origin": "model",
+   "model_finding_id": "F34",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "scene recall causing re-grouping of individual mixer engines/zone players",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Takemura (US Pub. 2005/0195999)"
+    ],
+    "summary": "Applicant argued that Takemura's mixer engines never belong to multiple zones concurrently and that changing between zone groupings (Area 1/Area 2) is not accomplished via scene recall, distinguishing the claimed invention's scene-based transition mechanism from Takemura's area-change process."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "scene recall causing re-grouping of individual mixer engines/zone players",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Takemura (US Pub. 2005/0195999)"
+    ],
+    "summary": "Applicant argued that Takemura's mixer engines never belong to multiple zones concurrently and that changing between zone groupings (Area 1/Area 2) is not accomplished via scene recall, distinguishing the claimed invention's scene-based transition mechanism from Takemura's area-change process."
+   },
+   "page": 4,
+   "quote": "Consequently, Takemura also does not teach that recalling a scene can re-group individual\nengines. Indeed, changing between the illustrated zone groupings of \"Area 1\" and \"Area 2\" in\nFigure 7 of Takemura is not accomplished via a scene recall in Takemura.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "origin": "model",
+   "model_finding_id": "F35",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "computing device capable of standalone-mode scene creation and transition based on a third request",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Takemura (US Pub. 2005/0195999)"
+    ],
+    "summary": "Applicant argued that Takemura only discusses transferring zone data to mixer engines when a user instructs an area change, and that this does not teach a computing device capable of the specific claimed sequence of receiving first/second scene creation requests and transitioning the zone player from standalone mode based on a third request."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "computing device capable of standalone-mode scene creation and transition based on a third request",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Takemura (US Pub. 2005/0195999)"
+    ],
+    "summary": "Applicant argued that Takemura only discusses transferring zone data to mixer engines when a user instructs an area change, and that this does not teach a computing device capable of the specific claimed sequence of receiving first/second scene creation requests and transitioning the zone player from standalone mode based on a third request."
+   },
+   "page": 5,
+   "quote": "Nowhere does Takemura teach or suggest a computing device that\nis capable of:\n\"while serving as a controller for a networked media playback system .. .",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "origin": "model",
+   "model_finding_id": "F36",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "general distinguishing of Cobranet and Ethersound references",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Cobranet",
+     "Ethersound"
+    ],
+    "summary": "Applicant stated that the Cobranet and Ethersound references mentioned by the Examiner also do not teach the limitations discussed as absent from DME and Takemura."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "general distinguishing of Cobranet and Ethersound references",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Cobranet",
+     "Ethersound"
+    ],
+    "summary": "Applicant stated that the Cobranet and Ethersound references mentioned by the Examiner also do not teach the limitations discussed as absent from DME and Takemura."
+   },
+   "page": 5,
+   "quote": "Applicant has also reviewed the Cobranet and Ethersound references mentioned by the\nExaminer during the interview and respectfully submits that they also do not teach the limitations\ndiscussed above that are absent from DME and Takemura.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "origin": "model",
+   "model_finding_id": "F37",
+   "kind": "estoppel",
+   "doc_id": "JZOW2573RXEAPX1",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "official notice of grouping/sub-grouping being well known",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant traversed the Examiner's official notice that grouping and sub-grouping of a constellation of audio players was well known in the art, arguing no documentary evidence was provided and that the noticed subject matter does not correspond to what is missing from the DME Manual."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     9,
+     17
+    ],
+    "limitation": "official notice of grouping/sub-grouping being well known",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Yamaha DME Designer Version 3.5 Owner's Manual (DME Manual)"
+    ],
+    "summary": "Applicant traversed the Examiner's official notice that grouping and sub-grouping of a constellation of audio players was well known in the art, arguing no documentary evidence was provided and that the noticed subject matter does not correspond to what is missing from the DME Manual."
+   },
+   "page": 3,
+   "quote": "any documentary evidence to support the finding of official notice, and the Applicant respectfully\ntraverses the official notice on this basis. MPEP 2144.03.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "origin": "model",
+   "model_finding_id": "F39",
+   "kind": "allowance_reason",
+   "doc_id": "K03SDYO2RXEAPX4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "summary": "The prior art (DME) accomplishes playback of selected media in synchrony on a selected set of playback devices when a scene is invoked, but does not allow for continuous output of media on a particular playback device and joining of that continuous output by a selected playback device or set thereof in synchrony with media currently playing back on the particular playback device, i.e., the prior art only teaches synchronization as the start of the process, whereas the claims require invocation of a scene that adds a playback device or group to join a currently-playing device without pause/interruption or user re-engagement with playback controls."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "summary": "The prior art (DME) accomplishes playback of selected media in synchrony on a selected set of playback devices when a scene is invoked, but does not allow for continuous output of media on a particular playback device and joining of that continuous output by a selected playback device or set thereof in synchrony with media currently playing back on the particular playback device, i.e., the prior art only teaches synchronization as the start of the process, whereas the claims require invocation of a scene that adds a playback device or group to join a currently-playing device without pause/interruption or user re-engagement with playback controls."
+   },
+   "page": 12,
+   "quote": "the prior art does not reasonably teach the subject matter of the independent claims. Particularly while DME operates to accomplish playback of selected media in synchrony on a selected set of first, second, etc. playback devices when a scene is invoked upon said set of players, DME does not allow for continuous output of media on a particular playback device and joining of the continuous output by a selected playback device or set thereof in synchrony with media currently playing back upon the particular playback device.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "origin": "model",
+   "model_finding_id": "F40",
+   "kind": "examiners_amendment",
+   "doc_id": "K03SDYO2RXEAPX4",
+   "verdict": "correct",
+   "fields": {
+    "summary": "An examiner's amendment was entered, authorized by Brandon Kennedy in an interview on 8/30/19, amending independent claims 1, 9, and 17 and dependent claims 2, 5, 10, 13, and 18. The amendments primarily replace the phrase \"play back\" with \"output\" in various limitations describing synchronous media output between zone players (e.g., causing a zone player to coordinate with another zone player to output media in synchrony rather than \"play back\" media in synchrony), across claims reciting creation, storage, and invocation of first and second zone scenes and transitions between standalone and grouped playback modes."
+   },
+   "model_values": {
+    "summary": "An examiner's amendment was entered, authorized by Brandon Kennedy in an interview on 8/30/19, amending independent claims 1, 9, and 17 and dependent claims 2, 5, 10, 13, and 18. The amendments primarily replace the phrase \"play back\" with \"output\" in various limitations describing synchronous media output between zone players (e.g., causing a zone player to coordinate with another zone player to output media in synchrony rather than \"play back\" media in synchrony), across claims reciting creation, storage, and invocation of first and second zone scenes and transitions between standalone and grouped playback modes."
+   },
+   "page": 6,
+   "quote": "Authorization for this examiner's amendment was given in an interview with Brandon Kennedy on 8/30/19.",
+   "error_tags": [],
+   "note": ""
+  }
+ ]
+}

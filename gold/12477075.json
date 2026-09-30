@@ -1,0 +1,1855 @@
+{
+ "application_number": "12477075",
+ "patent_number": "8046721",
+ "title": "UNLOCKING A DEVICE BY PERFORMING GESTURES ON AN UNLOCK IMAGE",
+ "labeler": "MB",
+ "source_model": "claude-sonnet-5",
+ "source_prompt_version": "2026-09-25.2",
+ "source_analysis_created": "2026-09-30T13:18:30.551064+00:00",
+ "created": "2026-09-30T14:03:38+00:00",
+ "updated": "2026-09-30T14:14:06+00:00",
+ "docs": {
+  "FVH9ZJ07PPOPPY4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:03:38+00:00",
+   "reviewed_at": "2026-09-30T14:04:58+00:00",
+   "note": ""
+  },
+  "G4YCOEIRPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:04:58+00:00",
+   "reviewed_at": "2026-09-30T14:05:47+00:00",
+   "note": ""
+  },
+  "G9O9KK92PPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:05:47+00:00",
+   "reviewed_at": "2026-09-30T14:06:35+00:00",
+   "note": ""
+  },
+  "GAZVBNWHPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:06:35+00:00",
+   "reviewed_at": "2026-09-30T14:07:50+00:00",
+   "note": ""
+  },
+  "GAZVBO2MPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:07:51+00:00",
+   "reviewed_at": "2026-09-30T14:08:17+00:00",
+   "note": ""
+  },
+  "GAZVBO86PPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:08:17+00:00",
+   "reviewed_at": "2026-09-30T14:09:33+00:00",
+   "note": ""
+  },
+  "GE44JCR4PPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:09:33+00:00",
+   "reviewed_at": "2026-09-30T14:09:56+00:00",
+   "note": ""
+  },
+  "GG3Y7BFBPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:09:56+00:00",
+   "reviewed_at": "2026-09-30T14:10:01+00:00",
+   "note": ""
+  },
+  "GGWPR1M8PPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:10:01+00:00",
+   "reviewed_at": "2026-09-30T14:10:05+00:00",
+   "note": ""
+  },
+  "GGWPR1O3PPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:10:05+00:00",
+   "reviewed_at": "2026-09-30T14:10:34+00:00",
+   "note": ""
+  },
+  "GGWPR1QPPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:10:34+00:00",
+   "reviewed_at": "2026-09-30T14:11:40+00:00",
+   "note": ""
+  },
+  "GHNDE8D8PPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:11:40+00:00",
+   "reviewed_at": "2026-09-30T14:11:45+00:00",
+   "note": ""
+  },
+  "GHNDE8DUPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:11:45+00:00",
+   "reviewed_at": "2026-09-30T14:12:54+00:00",
+   "note": ""
+  },
+  "GJQ78F4QPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:12:54+00:00",
+   "reviewed_at": "2026-09-30T14:13:03+00:00",
+   "note": ""
+  },
+  "GN0CADNUPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:13:03+00:00",
+   "reviewed_at": "2026-09-30T14:13:05+00:00",
+   "note": ""
+  },
+  "GNDUWNUSPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:13:05+00:00",
+   "reviewed_at": "2026-09-30T14:13:15+00:00",
+   "note": ""
+  },
+  "GNDUWNW7PPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:13:15+00:00",
+   "reviewed_at": "2026-09-30T14:13:24+00:00",
+   "note": ""
+  },
+  "GNDUWNWKPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:13:24+00:00",
+   "reviewed_at": "2026-09-30T14:13:58+00:00",
+   "note": ""
+  },
+  "GR3K75J3PPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T14:13:59+00:00",
+   "reviewed_at": "2026-09-30T14:14:06+00:00",
+   "note": ""
+  }
+ },
+ "items": [
+  {
+   "id": "G1",
+   "origin": "model",
+   "model_finding_id": "F1",
+   "kind": "claim",
+   "doc_id": "FVH9ZJ07PPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touchsensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touchsensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A method of unlocking a hand-held electronic device, the device including a touchsensitive display, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "origin": "model",
+   "model_finding_id": "F2",
+   "kind": "claim",
+   "doc_id": "FVH9ZJ07PPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     7
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "origin": "model",
+   "model_finding_id": "F3",
+   "kind": "claim",
+   "doc_id": "FVH9ZJ07PPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "origin": "model",
+   "model_finding_id": "F4",
+   "kind": "claim",
+   "doc_id": "FVH9ZJ07PPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "status": "original",
+    "text": "A computer program product for use in conjunction with a portable electronic device comprising a touch-sensitive display, the computer program product comprising a computer readable storage medium and a computer program mechanism embedded therein, the computer program mechanism comprising instructions for: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "status": "original",
+    "text": "A computer program product for use in conjunction with a portable electronic device comprising a touch-sensitive display, the computer program product comprising a computer readable storage medium and a computer program mechanism embedded therein, the computer program mechanism comprising instructions for: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "A computer program product for use in conjunction with a portable electronic device comprising a touch-sensitive display, the computer program product comprising a",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "origin": "model",
+   "model_finding_id": "F6",
+   "kind": "rejection",
+   "doc_id": "G4YCOEIRPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "basis": "double patenting",
+    "references": [
+     "U.S. Patent No. 7,657,849"
+    ],
+    "summary": "Claims 1-12 are rejected for nonstatutory obviousness-type double patenting over claims 1-2, 4-5, 7-9, 11-26 of U.S. Patent No. 7,657,849, because although not identical, the claims are not patentably distinct as both describe a method for unlocking a device by moving an unlock image."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "basis": "double patenting",
+    "references": [
+     "U.S. Patent No. 7,657,849"
+    ],
+    "summary": "Claims 1-12 are rejected for nonstatutory obviousness-type double patenting over claims 1-2, 4-5, 7-9, 11-26 of U.S. Patent No. 7,657,849, because although not identical, the claims are not patentably distinct as both describe a method for unlocking a device by moving an unlock image."
+   },
+   "page": 3,
+   "quote": "Claims 1-12 are rejected on the ground of nonstatutory obviousness-type double patenting as being unpatentable over claims 1-2, 4-5, 7-9, 11-26 of U.S. Patent No. 7,657,849.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "origin": "model",
+   "model_finding_id": "F7",
+   "kind": "rejection",
+   "doc_id": "G4YCOEIRPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "102",
+    "references": [
+     "Rytivaara et al (US 2005/0253817 A1)"
+    ],
+    "summary": "Claims 1-4, 7-8, 11, and 12 are rejected as anticipated by Rytivaara, which discloses a method of deactivating a touch screen lock by detecting touches on predetermined contact areas in a given order, moving an unlock image (item 320) along a path with visual highlighting, and unlocking the device when the correct contact areas are touched."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "102",
+    "references": [
+     "Rytivaara et al (US 2005/0253817 A1)"
+    ],
+    "summary": "Claims 1-4, 7-8, 11, and 12 are rejected as anticipated by Rytivaara, which discloses a method of deactivating a touch screen lock by detecting touches on predetermined contact areas in a given order, moving an unlock image (item 320) along a path with visual highlighting, and unlocking the device when the correct contact areas are touched."
+   },
+   "page": 7,
+   "quote": "Claims 1-4, 7-8, 11, and 12 are rejected under 35 U.S.C. 102(b) as being anticipated by Rytivaara et al (US 2005/0253817 A1).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "origin": "model",
+   "model_finding_id": "F8",
+   "kind": "rejection",
+   "doc_id": "G4YCOEIRPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Rytivaara et al (US 2005/0253817 A1)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Claims 5-6 and 9-10 are rejected as unpatentable over Rytivaara in view of Astheimer, because Rytivaara does not explicitly disclose a visual cue comprising text and an arrow indicating direction, but Astheimer teaches visual cues comprising arrows pointing in the right direction, and it would have been obvious to combine these as a predictable substitution of one known visual cue element for another."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Rytivaara et al (US 2005/0253817 A1)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Claims 5-6 and 9-10 are rejected as unpatentable over Rytivaara in view of Astheimer, because Rytivaara does not explicitly disclose a visual cue comprising text and an arrow indicating direction, but Astheimer teaches visual cues comprising arrows pointing in the right direction, and it would have been obvious to combine these as a predictable substitution of one known visual cue element for another."
+   },
+   "page": 11,
+   "quote": "Claims 5-6, and 9-10 are rejected under 35 U.S.C. 103(a) as being unpatentable over Rytivaara et al (US 2005/0253817 A1) in view of Peter Astheimer (US 2008/0134170 A1).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "origin": "model",
+   "model_finding_id": "F11",
+   "kind": "claim",
+   "doc_id": "GAZVBO2MPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "origin": "model",
+   "model_finding_id": "F12",
+   "kind": "claim",
+   "doc_id": "GAZVBO2MPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     7
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A portable electronic device, comprising:\na touch-sensitive display;\nmemory;\none or more processors; and",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "origin": "model",
+   "model_finding_id": "F13",
+   "kind": "claim",
+   "doc_id": "GAZVBO2MPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touch-sensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "status": "original",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touch-sensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "A portable electronic device, comprising:\na touch-sensitive display;\nmeans for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "origin": "model",
+   "model_finding_id": "F14",
+   "kind": "claim",
+   "doc_id": "GAZVBO2MPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "status": "currently amended",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "status": "currently amended",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "12. (Currently Amended) A computer pregram-preduct for use in conjunction with-a",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "origin": "model",
+   "model_finding_id": "F16",
+   "kind": "amendment",
+   "doc_id": "GAZVBO86PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "change": "Claim 12 has been amended; support found in paragraph [0028] of the application as filed, no new matter added. The specific text of the amendment is not reproduced in this remarks document, but applicant states the amendment relates to the same limitations at issue in claim 1 regarding moving the unlock image in accordance with movement of the contact."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "change": "Claim 12 has been amended; support found in paragraph [0028] of the application as filed, no new matter added. The specific text of the amendment is not reproduced in this remarks document, but applicant states the amendment relates to the same limitations at issue in claim 1 regarding moving the unlock image in accordance with movement of the contact."
+   },
+   "page": 1,
+   "quote": "Claim 12 has been amended. Support for the amendments can be found in at least paragraph [0028] of the application as filed. No new matter has been added.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "origin": "model",
+   "model_finding_id": "F17",
+   "kind": "estoppel",
+   "doc_id": "GAZVBO86PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "moving the unlock image on the touch-sensitive display in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants argued that Rytivaara does not disclose moving the unlock image in accordance with movement of the contact, because the images in Rytivaara do not move in accordance with movement of the contact, distinguishing the claimed invention from Rytivaara's static multi-area touch detection."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "moving the unlock image on the touch-sensitive display in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants argued that Rytivaara does not disclose moving the unlock image in accordance with movement of the contact, because the images in Rytivaara do not move in accordance with movement of the contact, distinguishing the claimed invention from Rytivaara's static multi-area touch detection."
+   },
+   "page": 2,
+   "quote": "Rytivaara does not disclose \"moving the unlock on the touch-sensitive display in accordance with movement of the contact\" as required by claim 1. Rytivaara discloses touching multiple areas on a touch screen, but the images in Rytivaara do not move in accordance with movement of the contact.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "origin": "model",
+   "model_finding_id": "F18",
+   "kind": "estoppel",
+   "doc_id": "GAZVBO86PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "moving the unlock image on the touch-sensitive display in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants stated that independent claims 7, 11 and 12 and dependent claims 8, 9 and 10 are patentable over Rytivaara for reasons analogous to those explained with respect to claim 1, extending the same disclaimer regarding moving the unlock image to these claims."
+   },
+   "model_values": {
+    "claims": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "moving the unlock image on the touch-sensitive display in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants stated that independent claims 7, 11 and 12 and dependent claims 8, 9 and 10 are patentable over Rytivaara for reasons analogous to those explained with respect to claim 1, extending the same disclaimer regarding moving the unlock image to these claims."
+   },
+   "page": 2,
+   "quote": "Independent claims 7, 11 and 12 and associated dependent claims 8, 9 and 10 are patentable over Rytivaara for reasons analogous to those explained above with respect to claim 1.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "origin": "model",
+   "model_finding_id": "F19",
+   "kind": "estoppel",
+   "doc_id": "GAZVBO86PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "priority date / prior art status of Astheimer reference",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Peter Astheimer (US 2008/0134170)"
+    ],
+    "summary": "Applicants argued that Astheimer cannot be used as prior art in the 103(a) rejection because its priority date (December 1, 2006) is not prior to the priority date (December 23, 2005) of the present application."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "priority date / prior art status of Astheimer reference",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Peter Astheimer (US 2008/0134170)"
+    ],
+    "summary": "Applicants argued that Astheimer cannot be used as prior art in the 103(a) rejection because its priority date (December 1, 2006) is not prior to the priority date (December 23, 2005) of the present application."
+   },
+   "page": 3,
+   "quote": "the Examiner's use of Astheimer (US 2008/0134170) in a 103(a) rejection of this limitation is improper because Astheimer's (US 2008/0134170) priority date, December 1, 2006, is not \"prior\" to the priority date, December 23, 2005, of the present application.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "origin": "model",
+   "model_finding_id": "F20",
+   "kind": "estoppel",
+   "doc_id": "GAZVBO86PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "Examiners' agreement regarding Rytivaara's disclosure",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants noted that during an interview, the Examiners agreed that Rytivaara does not teach moving the unlock image in accordance with movement of the contact, reinforcing the disclaimer of this limitation as distinguishing over Rytivaara."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "Examiners' agreement regarding Rytivaara's disclosure",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Rytivaara et al. (US 2005/0253817)"
+    ],
+    "summary": "Applicants noted that during an interview, the Examiners agreed that Rytivaara does not teach moving the unlock image in accordance with movement of the contact, reinforcing the disclaimer of this limitation as distinguishing over Rytivaara."
+   },
+   "page": 1,
+   "quote": "In the interview, the Examiners agreed that Rytivaara does not teach \"moving the unlock on the touch-sensitive display in accordance with movement of the contact.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "origin": "model",
+   "model_finding_id": "F22",
+   "kind": "rejection",
+   "doc_id": "GE44JCR4PPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)"
+    ],
+    "summary": "Tokkonen discloses a method of controlling a locking function including detecting contact at a first predefined location corresponding to an unlock image, but does not disclose moving the unlock image in accordance with contact movement or unlocking based on movement to a predefined unlock region; Gauthey discloses inputting a security code via touch screen by moving a finger/stylus from a first reference to a second reference along a trajectory. The examiner found it obvious to combine Gauthey's security code entry technique with Tokkonen's touch screen to enter a security code quickly and easily."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)"
+    ],
+    "summary": "Tokkonen discloses a method of controlling a locking function including detecting contact at a first predefined location corresponding to an unlock image, but does not disclose moving the unlock image in accordance with contact movement or unlocking based on movement to a predefined unlock region; Gauthey discloses inputting a security code via touch screen by moving a finger/stylus from a first reference to a second reference along a trajectory. The examiner found it obvious to combine Gauthey's security code entry technique with Tokkonen's touch screen to enter a security code quickly and easily."
+   },
+   "page": 3,
+   "quote": "Claims 1-4, 7-8, 11, and 12 are rejected under 35 U.S.C. 103(a) as being\nunpatentable over Timo Tokkonen (US 7627904 B2) in view of Gauthey et al (US\n7286063 B2).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "origin": "model",
+   "model_finding_id": "F23",
+   "kind": "rejection",
+   "doc_id": "GE44JCR4PPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Tokkonen and Gauthey disclose the method of claims 4 and 8 but do not explicitly disclose that the visual cue comprises text and an arrow indicating a general direction of movement; Astheimer discloses visual cues including text and arrows pointing in the right direction. The examiner concluded it would have been obvious to modify Tokkonen/Gauthey with Astheimer's cues since substituting one known element (light signal cue) for another (text/arrow cue) yields predictable results."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Tokkonen and Gauthey disclose the method of claims 4 and 8 but do not explicitly disclose that the visual cue comprises text and an arrow indicating a general direction of movement; Astheimer discloses visual cues including text and arrows pointing in the right direction. The examiner concluded it would have been obvious to modify Tokkonen/Gauthey with Astheimer's cues since substituting one known element (light signal cue) for another (text/arrow cue) yields predictable results."
+   },
+   "page": 6,
+   "quote": "Claims 5-6, and 9-10 are rejected under 35 U.S.C. 103(a) as being unpatentable\nover Timo Tokkonen (US 7627904 B2) in view of Gauthey et al (US 7286063 B2) in\nfurther view of Peter Astheimer (US 2008/0134170 A1).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "origin": "model",
+   "model_finding_id": "F26",
+   "kind": "claim",
+   "doc_id": "GGWPR1O3PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising:\ndetecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\ncontinuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nunlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising:\ndetecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\ncontinuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nunlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "origin": "model",
+   "model_finding_id": "F27",
+   "kind": "claim",
+   "doc_id": "GGWPR1O3PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7
+    ],
+    "status": "currently amended",
+    "text": "A portable electronic device, comprising:\na touch-sensitive display;\nmemory;\none or more processors; and\none or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions:\nto detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\nto continuously move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nto unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     7
+    ],
+    "status": "currently amended",
+    "text": "A portable electronic device, comprising:\na touch-sensitive display;\nmemory;\none or more processors; and\none or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions:\nto detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\nto continuously move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nto unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A portable electronic device, comprising:\na touch-sensitive display;\nmemory;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "origin": "model",
+   "model_finding_id": "F28",
+   "kind": "claim",
+   "doc_id": "GGWPR1O3PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "status": "currently amended",
+    "text": "A portable electronic device, comprising:\na touch-sensitive display;\nmeans for displaying an unlock image at a first predefined location on the touch-sensitive display while the device is in a user-interface lock state;\nmeans for detecting contact with the touch-sensitive display; and\nmeans for continuously moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nmeans for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "status": "currently amended",
+    "text": "A portable electronic device, comprising:\na touch-sensitive display;\nmeans for displaying an unlock image at a first predefined location on the touch-sensitive display while the device is in a user-interface lock state;\nmeans for detecting contact with the touch-sensitive display; and\nmeans for continuously moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nmeans for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "A portable electronic device, comprising:\na touch-sensitive display;\nmeans for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "origin": "model",
+   "model_finding_id": "F29",
+   "kind": "claim",
+   "doc_id": "GGWPR1O3PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "status": "currently amended",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising:\ndetecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\ncontinuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nunlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "status": "currently amended",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising:\ndetecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image;\ncontinuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and\nunlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 3,
+   "quote": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "origin": "model",
+   "model_finding_id": "F31",
+   "kind": "amendment",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "change": "Added limitation requiring \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device,\" replacing/narrowing the prior movement limitation to overcome the Tokkonen/Gauthey rejection."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "change": "Added limitation requiring \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device,\" replacing/narrowing the prior movement limitation to overcome the Tokkonen/Gauthey rejection."
+   },
+   "page": 3,
+   "quote": "continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "origin": "model",
+   "model_finding_id": "F32",
+   "kind": "amendment",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "model_values": {
+    "claims": [
+     7
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "page": 1,
+   "quote": "Claims 1, 7, 11 and 12 have been amended accordingly.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "origin": "model",
+   "model_finding_id": "F33",
+   "kind": "amendment",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "page": 1,
+   "quote": "Claims 1, 7, 11 and 12 have been amended accordingly.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "origin": "model",
+   "model_finding_id": "F34",
+   "kind": "amendment",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "change": "Amended to include the same continuously-moving/graphical-interactive-object limitation as claim 1, per Examiner interview suggestion."
+   },
+   "page": 1,
+   "quote": "Claims 1, 7, 11 and 12 have been amended accordingly.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "origin": "model",
+   "model_finding_id": "F35",
+   "kind": "estoppel",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     7,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant amended claims 1, 7, 11, and 12 to add the continuous-movement/graphical-interactive-object limitation, an amendment the Examiners agreed would overcome the 103 rejection over Tokkonen in view of Gauthey."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     7,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant amended claims 1, 7, 11, and 12 to add the continuous-movement/graphical-interactive-object limitation, an amendment the Examiners agreed would overcome the 103 rejection over Tokkonen in view of Gauthey."
+   },
+   "page": 1,
+   "quote": "The Examiners agreed that amending the claims to recite, \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "origin": "model",
+   "model_finding_id": "F36",
+   "kind": "estoppel",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "limitation": "continuously moving the unlock image in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant argued that the combination of Tokkonen and Gauthey fails to teach continuously moving an unlock image in accordance with movement of a contact, distinguishing the claimed invention from the cited art on this basis."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "limitation": "continuously moving the unlock image in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant argued that the combination of Tokkonen and Gauthey fails to teach continuously moving an unlock image in accordance with movement of a contact, distinguishing the claimed invention from the cited art on this basis."
+   },
+   "page": 3,
+   "quote": "because the cited references do not teach continuously moving an unlock image in accordance with movement of a contact",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "origin": "model",
+   "model_finding_id": "F37",
+   "kind": "estoppel",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image / graphical interactive user-interface object",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant argued that independent claims 7, 11 and 12, and dependent claims 8-10, are patentable over Tokkonen and Gauthey for analogous reasons to claim 1, relying on the same continuous-movement limitation to distinguish the art."
+   },
+   "model_values": {
+    "claims": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image / graphical interactive user-interface object",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)"
+    ],
+    "summary": "Applicant argued that independent claims 7, 11 and 12, and dependent claims 8-10, are patentable over Tokkonen and Gauthey for analogous reasons to claim 1, relying on the same continuous-movement limitation to distinguish the art."
+   },
+   "page": 4,
+   "quote": "Independent claims 7, 11 and 12 and associated dependent claims 8, 9 and 10 are patentable over Tokkonen and Gauthey for analogous reasons to those explained above with respect to claim 1.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "origin": "model",
+   "model_finding_id": "F38",
+   "kind": "estoppel",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "limitations inherited from independent claims 1 and 7 (continuous movement limitation)",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)",
+     "Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Applicant argued that Astheimer does not supply the limitations missing from Tokkonen and Gauthey, and that therefore claims 5-6 and 9-10, which depend from claims 1 and 7, are patentable because the combination fails to teach the added limitations."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "limitations inherited from independent claims 1 and 7 (continuous movement limitation)",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [
+     "Tokkonen (US 7,627,904 B2)",
+     "Gauthey et al. (US 7,286,063 B2)",
+     "Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Applicant argued that Astheimer does not supply the limitations missing from Tokkonen and Gauthey, and that therefore claims 5-6 and 9-10, which depend from claims 1 and 7, are patentable because the combination fails to teach the added limitations."
+   },
+   "page": 4,
+   "quote": "Astheimer is not cited for and does not supply the missing limitations.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "origin": "model",
+   "model_finding_id": "F39",
+   "kind": "estoppel",
+   "doc_id": "GGWPR1QPPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "general claim scope / prosecution disclaimer reservation",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant expressly stated it has not dedicated or abandoned any unclaimed subject matter, and has not acquiesced to any characterizations of the invention or rejections made by the Examiner."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "general claim scope / prosecution disclaimer reservation",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant expressly stated it has not dedicated or abandoned any unclaimed subject matter, and has not acquiesced to any characterizations of the invention or rejections made by the Examiner."
+   },
+   "page": 2,
+   "quote": "Applicants have not dedicated or abandoned any unclaimed subject matter. Moreover, Applicants have not acquiesced to any",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "origin": "model",
+   "model_finding_id": "F42",
+   "kind": "rejection",
+   "doc_id": "GHNDE8DUPPOPPY5",
+   "verdict": "incorrect",
+   "fields": {
+    "claims": [],
+    "basis": "other",
+    "references": [],
+    "summary": "The proposed amendments filed after final rejection will not be entered because they raise new issues that would require further consideration and/or search; for purposes of appeal the amendments will not be entered."
+   },
+   "model_values": {
+    "claims": [],
+    "basis": "other",
+    "references": [],
+    "summary": "The proposed amendments filed after final rejection will not be entered because they raise new issues that would require further consideration and/or search; for purposes of appeal the amendments will not be entered."
+   },
+   "page": 2,
+   "quote": "The proposed amendmeni(s) filed after a final rejection, but prior to the date of filing a brief, will not be entered because",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "origin": "model",
+   "model_finding_id": "F43",
+   "kind": "rejection",
+   "doc_id": "GHNDE8DUPPOPPY5",
+   "verdict": "incorrect",
+   "fields": {
+    "claims": [],
+    "basis": "other",
+    "references": [],
+    "summary": "The examiner states the reply filed 24 November 2010 fails to place the application in condition for allowance and the request for reconsideration does not place the application in condition for allowance."
+   },
+   "model_values": {
+    "claims": [],
+    "basis": "other",
+    "references": [],
+    "summary": "The examiner states the reply filed 24 November 2010 fails to place the application in condition for allowance and the request for reconsideration does not place the application in condition for allowance."
+   },
+   "page": 2,
+   "quote": "THE REPLY FILED 24 November 2010 FAILS TO PLACE THIS APPLICATION IN CONDITION FOR ALLOWANCE.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "origin": "model",
+   "model_finding_id": "F45",
+   "kind": "rejection",
+   "doc_id": "GJQ78F4QPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)"
+    ],
+    "summary": "Tokkonen discloses a method of controlling a locking function including detecting contact at a first predefined location corresponding to an unlock image, but does not explicitly disclose continuously moving the unlock image with continuous contact; Gauthey discloses entry of a security code via touch screen movement from a first reference to a second reference, and it would have been obvious to combine Gauthey's security code teaching with Tokkonen's touch screen to enter a security code quickly and easily."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     8,
+     11,
+     12
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)"
+    ],
+    "summary": "Tokkonen discloses a method of controlling a locking function including detecting contact at a first predefined location corresponding to an unlock image, but does not explicitly disclose continuously moving the unlock image with continuous contact; Gauthey discloses entry of a security code via touch screen movement from a first reference to a second reference, and it would have been obvious to combine Gauthey's security code teaching with Tokkonen's touch screen to enter a security code quickly and easily."
+   },
+   "page": 4,
+   "quote": "Claims 1-4, 7-8, 11, and 12 are rejected under 35 U.S.C. 103(a) as being\nunpatentable over Timo Tokkonen (US 7627904 B2) in view of Gauthey et al (US\n7286063 B2).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "origin": "model",
+   "model_finding_id": "F46",
+   "kind": "rejection",
+   "doc_id": "GJQ78F4QPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Tokkonen and Gauthey disclose the deactivating lock method but not that the visual cue comprises text and an arrow indicating direction; Astheimer discloses visual cues comprising arrows pointing in the right direction, and it would have been obvious to modify Tokkonen/Gauthey with Astheimer's teaching of text and arrow visual cues as a predictable substitution of one known element for another."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "basis": "103",
+    "references": [
+     "Timo Tokkonen (US 7627904 B2)",
+     "Gauthey et al (US 7286063 B2)",
+     "Peter Astheimer (US 2008/0134170 A1)"
+    ],
+    "summary": "Tokkonen and Gauthey disclose the deactivating lock method but not that the visual cue comprises text and an arrow indicating direction; Astheimer discloses visual cues comprising arrows pointing in the right direction, and it would have been obvious to modify Tokkonen/Gauthey with Astheimer's teaching of text and arrow visual cues as a predictable substitution of one known element for another."
+   },
+   "page": 7,
+   "quote": "Claims 5-6, and 9-10 are rejected under 35 U.S.C. 103(a) as being unpatentable\nover Timo Tokkonen (US 7627904 B2) in view of Gauthey et al (US 7286063 B2) in\nfurther view of Peter Astheimer (US 2008/0134170 A1).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G36",
+   "origin": "model",
+   "model_finding_id": "F49",
+   "kind": "claim",
+   "doc_id": "GNDUWNW7PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "previously presented",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "previously presented",
+    "text": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A method of unlocking a hand-held electronic device, the device including a touch-sensitive display, the method comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G37",
+   "origin": "model",
+   "model_finding_id": "F50",
+   "kind": "claim",
+   "doc_id": "GNDUWNW7PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     7
+    ],
+    "status": "previously presented",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to continuously move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     7
+    ],
+    "status": "previously presented",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; memory; one or more processors; and one or more modules stored in the memory and configured for execution by the one or more processors, the one or more modules including instructions: to detect a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; to continuously move the unlock image on the touch-sensitive display in accordance with movement of the detected contact while continuous contact with the touch-sensitive display is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and to unlock the hand-held electronic device if the unlock image is moved from the first predefined location on the touch screen to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 1,
+   "quote": "A portable electronic device, comprising: a touch-sensitive display; memory;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G38",
+   "origin": "model",
+   "model_finding_id": "F51",
+   "kind": "claim",
+   "doc_id": "GNDUWNW7PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11
+    ],
+    "status": "previously presented",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for continuously moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     11
+    ],
+    "status": "previously presented",
+    "text": "A portable electronic device, comprising: a touch-sensitive display; means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state; means for detecting contact with the touch-sensitive display; and means for continuously moving the unlock image on the touch-sensitive display in response to detecting the contact in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and means for transitioning the device to a user-interface unlock state if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 2,
+   "quote": "A portable electronic device, comprising: a touch-sensitive display; | means for displaying an unlock image at a first predefined location on the touchsensitive display while the device is in a user-interface lock state;",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G39",
+   "origin": "model",
+   "model_finding_id": "F52",
+   "kind": "claim",
+   "doc_id": "GNDUWNW7PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "status": "previously presented",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "status": "previously presented",
+    "text": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device to perform a method comprising: detecting a contact with the touch-sensitive display at a first predefined location corresponding to an unlock image; continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device; and unlocking the hand-held electronic device if the moving the unlock image on the touch-sensitive display results in movement of the unlock image from the first predefined location to a predefined unlock region on the touch-sensitive display."
+   },
+   "page": 3,
+   "quote": "A computer readable storage medium storing one or more programs, the one or more programs comprising instructions, which when executed by a portable electronic device with a touch-sensitive display, cause the portable electronic device",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G40",
+   "origin": "model",
+   "model_finding_id": "F54",
+   "kind": "amendment",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     13
+    ],
+    "change": "New claim added, depending from claim 1, requiring that the unlock image is a single image."
+   },
+   "model_values": {
+    "claims": [
+     13
+    ],
+    "change": "New claim added, depending from claim 1, requiring that the unlock image is a single image."
+   },
+   "page": 1,
+   "quote": "Claims 13-15 have been added and require that the unlock image is a single image.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G41",
+   "origin": "model",
+   "model_finding_id": "F55",
+   "kind": "amendment",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     14
+    ],
+    "change": "New claim added, depending from claim 7, requiring that the unlock image is a single image."
+   },
+   "model_values": {
+    "claims": [
+     14
+    ],
+    "change": "New claim added, depending from claim 7, requiring that the unlock image is a single image."
+   },
+   "page": 3,
+   "quote": "Claims 13-15 depend from claims 1, 7, and 12 respectively.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G42",
+   "origin": "model",
+   "model_finding_id": "F56",
+   "kind": "amendment",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     15
+    ],
+    "change": "New claim added, depending from claim 12, requiring that the unlock image is a single image."
+   },
+   "model_values": {
+    "claims": [
+     15
+    ],
+    "change": "New claim added, depending from claim 12, requiring that the unlock image is a single image."
+   },
+   "page": 3,
+   "quote": "In additional, claims 13-15 require that \"the unlock image is a single image.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G43",
+   "origin": "model",
+   "model_finding_id": "F57",
+   "kind": "estoppel",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     7,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)"
+    ],
+    "summary": "Applicants argued that Tokkonen and Gauthey, alone or combined, do not teach continuously moving an unlock image in accordance with movement of a contact while continuous contact is maintained, and that this was agreed by the Examiners at interview."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     7,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)"
+    ],
+    "summary": "Applicants argued that Tokkonen and Gauthey, alone or combined, do not teach continuously moving an unlock image in accordance with movement of a contact while continuous contact is maintained, and that this was agreed by the Examiners at interview."
+   },
+   "page": 1,
+   "quote": "The Examiners agreed that the cited references do not disclose the claim limitations \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G44",
+   "origin": "model",
+   "model_finding_id": "F58",
+   "kind": "estoppel",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)"
+    ],
+    "summary": "Applicants argued the combination of Tokkonen and Gauthey fails to teach continuously moving the unlock image in accordance with movement of the contact while continuous contact is maintained, distinguishing claim 1 and dependent claims 2-6, and applying the same reasoning to claims 7, 11, 12 and dependents 8-10."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "limitation": "continuously moving the unlock image in accordance with movement of the contact",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)"
+    ],
+    "summary": "Applicants argued the combination of Tokkonen and Gauthey fails to teach continuously moving the unlock image in accordance with movement of the contact while continuous contact is maintained, distinguishing claim 1 and dependent claims 2-6, and applying the same reasoning to claims 7, 11, 12 and dependents 8-10."
+   },
+   "page": 3,
+   "quote": "The combination of Tokkonen and Gauthey fails to teach, \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G45",
+   "origin": "model",
+   "model_finding_id": "F59",
+   "kind": "estoppel",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "limitations inherited from independent claims 1 and 7 (continuously moving unlock image)",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)",
+     "Astheimer (U.S. Publication No. 2008/0134170 A1)"
+    ],
+    "summary": "Applicants argued that Astheimer does not supply the missing limitations from claims 1 and 7, and thus claims 5-6 and 9-10 are patentable because the base claims' missing limitation (continuous movement) is not taught by any of the cited references."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     9,
+     10
+    ],
+    "limitation": "limitations inherited from independent claims 1 and 7 (continuously moving unlock image)",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)",
+     "Astheimer (U.S. Publication No. 2008/0134170 A1)"
+    ],
+    "summary": "Applicants argued that Astheimer does not supply the missing limitations from claims 1 and 7, and thus claims 5-6 and 9-10 are patentable because the base claims' missing limitation (continuous movement) is not taught by any of the cited references."
+   },
+   "page": 3,
+   "quote": "Astheimer is not cited for and does not supply the missing limitations. Because the cited references, either alone or in combination, do not teach or suggest multiple claim limitations,",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G46",
+   "origin": "model",
+   "model_finding_id": "F60",
+   "kind": "estoppel",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     13,
+     14,
+     15
+    ],
+    "limitation": "the unlock image is a single image",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)",
+     "Astheimer (U.S. Publication No. 2008/0134170 A1)"
+    ],
+    "summary": "Applicants argued that Tokkonen, Gauthey, and Astheimer, taken together or separately, do not teach or suggest an unlock image that is a single image, distinguishing new claims 13-15 on this additional basis."
+   },
+   "model_values": {
+    "claims": [
+     13,
+     14,
+     15
+    ],
+    "limitation": "the unlock image is a single image",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Tokkonen (U.S. 7,627,904)",
+     "Gauthey et al. (U.S. 7,286,063 B2)",
+     "Astheimer (U.S. Publication No. 2008/0134170 A1)"
+    ],
+    "summary": "Applicants argued that Tokkonen, Gauthey, and Astheimer, taken together or separately, do not teach or suggest an unlock image that is a single image, distinguishing new claims 13-15 on this additional basis."
+   },
+   "page": 3,
+   "quote": "Tokkonen, Gauthey, and Astheimer, taken together or separately, do not teach or suggest an ~ \"unlock image\" that \"is a single image.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G47",
+   "origin": "model",
+   "model_finding_id": "F61",
+   "kind": "estoppel",
+   "doc_id": "GNDUWNWKPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "limitation": "general scope reservation",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicants stated they have not dedicated or abandoned any unclaimed subject matter, and have not acquiesced to any characterizations of the invention or rejections made by the Examiner."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "limitation": "general scope reservation",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicants stated they have not dedicated or abandoned any unclaimed subject matter, and have not acquiesced to any characterizations of the invention or rejections made by the Examiner."
+   },
+   "page": 1,
+   "quote": "Applicants have not dedicated or abandoned any unclaimed subject matter. Moreover, Applicants have not acquiesced to any characterizations of the invention, nor any rejections or objections of the.claims, made by the Examiner.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G48",
+   "origin": "model",
+   "model_finding_id": "F63",
+   "kind": "allowance_reason",
+   "doc_id": "GR3K75J3PPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "summary": "The prior art of record does not explicitly disclose continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "summary": "The prior art of record does not explicitly disclose continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contact while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device."
+   },
+   "page": 7,
+   "quote": "Claims 1-15 are allowable since the prior art of record does not explicitly disclose \"continuously moving the unlock image on the touch-sensitive display in accordance with movement of the contract while continuous contact with the touch screen is maintained, wherein the unlock image is a graphical, interactive user-interface object with which a user interacts in order to unlock the device.\"",
+   "error_tags": [],
+   "note": ""
+  }
+ ]
+}

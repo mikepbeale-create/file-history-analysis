@@ -1,0 +1,7 @@
+config,model,prompt,patents,runs,gold,predicted,matched,precision,recall,f1,f1_lo,f1_hi,f1_repeat_sd,usd_per_patent,usd_total,unpriced,verified_rate,failed_steps,pareto,opt_completeness_retry,opt_strict,opt_judge,opt_max_tokens,f1_allowable,f1_allowance_reason,f1_amendment,f1_claim,f1_examiners_amendment,f1_rejection
+sonnet-5__p-2026-09-25.2,claude-sonnet-5,2026-09-25.2,5,5,243,268,234,0.873,0.963,0.916,0.893,0.957,,0.3369,1.6847,False,0.989,0,True,True,True,False,8000,1.0,1.0,0.842,0.968,1.0,0.929
+sonnet-5__p-2026-09-25.2-no-rule3,claude-sonnet-5,2026-09-25.2-no-rule3,5,5,243,199,192,0.965,0.79,0.869,0.815,0.938,,0.3169,1.5847,False,0.987,0,True,True,True,False,8000,1.0,0.8,0.818,0.94,1.0,0.81
+haiku-4-5__p-2026-09-25.2,claude-haiku-4-5,2026-09-25.2,5,5,243,209,153,0.732,0.63,0.677,0.566,0.861,,0.1332,0.6661,False,0.844,0,True,True,True,False,8000,1.0,1.0,0.662,0.659,1.0,0.696
+haiku-4-5__p-2026-09-25.2-no-rule3,claude-haiku-4-5,2026-09-25.2-no-rule3,5,5,243,228,149,0.654,0.613,0.633,0.5,0.777,,0.1305,0.6525,False,0.911,0,True,True,True,False,8000,1.0,1.0,0.438,0.67,1.0,0.763
+opus-5-5__p-2026-09-25.2,claude-opus-5-5,2026-09-25.2,5,5,243,0,0,,0.0,0.0,0.0,0.0,,0.0,0.0,False,0.0,77,False,True,True,False,8000,0.0,0.0,0.0,0.0,0.0,0.0
+opus-5-5__p-2026-09-25.2-no-rule3,claude-opus-5-5,2026-09-25.2-no-rule3,5,5,243,0,0,,0.0,0.0,0.0,0.0,,0.0,0.0,False,0.0,77,False,True,True,False,8000,0.0,0.0,0.0,0.0,0.0,0.0

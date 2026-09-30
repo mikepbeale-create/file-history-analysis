@@ -1,0 +1,2073 @@
+{
+ "application_number": "12262027",
+ "patent_number": "8702308",
+ "title": "Reduced Opening Elastic Drawstring Bag",
+ "labeler": "",
+ "source_model": "claude-sonnet-5",
+ "source_prompt_version": "2026-09-25.2",
+ "source_analysis_created": "2026-09-30T16:38:32.173216+00:00",
+ "created": "2026-09-30T18:00:39+00:00",
+ "updated": "2026-09-30T18:12:07+00:00",
+ "docs": {
+  "FMY00HXCPPOPPY4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:00:40+00:00",
+   "reviewed_at": "2026-09-30T18:01:18+00:00",
+   "note": ""
+  },
+  "GMS0SOXOPPOPPY5": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:01:18+00:00",
+   "reviewed_at": "2026-09-30T18:02:07+00:00",
+   "note": ""
+  },
+  "GSUXUY8TPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:02:27+00:00",
+   "reviewed_at": "2026-09-30T18:02:29+00:00",
+   "note": ""
+  },
+  "GSUXUYADPPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:02:29+00:00",
+   "reviewed_at": "2026-09-30T18:02:39+00:00",
+   "note": ""
+  },
+  "GSUXUYB1PPOPPY2": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:09:18+00:00",
+   "reviewed_at": "2026-09-30T18:09:45+00:00",
+   "note": ""
+  },
+  "GVCTGLW6PXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:09:46+00:00",
+   "reviewed_at": "2026-09-30T18:09:56+00:00",
+   "note": ""
+  },
+  "GZ8Y6MX5PXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:09:56+00:00",
+   "reviewed_at": "2026-09-30T18:09:59+00:00",
+   "note": ""
+  },
+  "GZ8Y6MXRPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:09:59+00:00",
+   "reviewed_at": "2026-09-30T18:10:09+00:00",
+   "note": ""
+  },
+  "GZ8Y6MY0PXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:10:10+00:00",
+   "reviewed_at": "2026-09-30T18:10:23+00:00",
+   "note": ""
+  },
+  "H0V1OZENPXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:10:23+00:00",
+   "reviewed_at": "2026-09-30T18:10:36+00:00",
+   "note": ""
+  },
+  "H4FRCM6HPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:10:36+00:00",
+   "reviewed_at": "2026-09-30T18:10:51+00:00",
+   "note": ""
+  },
+  "H4FRCM6OPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:10:51+00:00",
+   "reviewed_at": "2026-09-30T18:11:28+00:00",
+   "note": ""
+  },
+  "H7AVWY5BPXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:28+00:00",
+   "reviewed_at": "2026-09-30T18:11:30+00:00",
+   "note": ""
+  },
+  "HLJMJ0C8PXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:30+00:00",
+   "reviewed_at": "2026-09-30T18:11:32+00:00",
+   "note": ""
+  },
+  "HLJMJ0DFPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:32+00:00",
+   "reviewed_at": "2026-09-30T18:11:41+00:00",
+   "note": ""
+  },
+  "HLJMJ0DVPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:41+00:00",
+   "reviewed_at": "2026-09-30T18:11:53+00:00",
+   "note": ""
+  },
+  "HNLZ6UGMPXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:53+00:00",
+   "reviewed_at": "2026-09-30T18:11:54+00:00",
+   "note": ""
+  },
+  "HR9K9QJ2PXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:11:55+00:00",
+   "reviewed_at": "2026-09-30T18:12:01+00:00",
+   "note": ""
+  },
+  "HRAZZ3WSPXXIFW3": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:12:01+00:00",
+   "reviewed_at": "2026-09-30T18:12:05+00:00",
+   "note": ""
+  },
+  "HS4XRER2PXXIFW4": {
+   "reviewed": true,
+   "opened_at": "2026-09-30T18:12:05+00:00",
+   "reviewed_at": "2026-09-30T18:12:07+00:00",
+   "note": ""
+  }
+ },
+ "items": [
+  {
+   "id": "G1",
+   "origin": "model",
+   "model_finding_id": "F1",
+   "kind": "claim",
+   "doc_id": "FMY00HXCPPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "page": 1,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "origin": "model",
+   "model_finding_id": "F2",
+   "kind": "claim",
+   "doc_id": "FMY00HXCPPOPPY4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, and a first access cutout centrally located along the upper edge of the first panel and a second access cutout centrally located along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, and a first access cutout centrally located along the upper edge of the first panel and a second access cutout centrally located along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "page": 2,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "origin": "model",
+   "model_finding_id": "F4",
+   "kind": "rejection",
+   "doc_id": "GMS0SOXOPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2,
+     3,
+     8
+    ],
+    "basis": "112(b)",
+    "references": [],
+    "summary": "Claims 2, 3 and 8 are rejected as indefinite for failing to particularly point out and distinctly claim the subject matter; claims 2 and 8 recite that the seals are 'not easily separable' which the examiner finds difficult to quantify in view of the disclosure."
+   },
+   "model_values": {
+    "claims": [
+     2,
+     3,
+     8
+    ],
+    "basis": "112(b)",
+    "references": [],
+    "summary": "Claims 2, 3 and 8 are rejected as indefinite for failing to particularly point out and distinctly claim the subject matter; claims 2 and 8 recite that the seals are 'not easily separable' which the examiner finds difficult to quantify in view of the disclosure."
+   },
+   "page": 3,
+   "quote": "Claims 2, 3 and 8 are rejected under 35 U.S.C. 112, second paragraph, as being\nindefinite for failing to particularly point out and distinctly claim the subject matter which\napplicant regards as the invention.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "origin": "model",
+   "model_finding_id": "F5",
+   "kind": "rejection",
+   "doc_id": "GMS0SOXOPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     10
+    ],
+    "basis": "102",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses a plastic liner bag with elastic top tie strip having first and second panels, side seals, hems, elastic drawstrings, short seals, and a relaxed upper opening width less than the bag proper width, anticipating claims 1-4 and 10."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     10
+    ],
+    "basis": "102",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses a plastic liner bag with elastic top tie strip having first and second panels, side seals, hems, elastic drawstrings, short seals, and a relaxed upper opening width less than the bag proper width, anticipating claims 1-4 and 10."
+   },
+   "page": 4,
+   "quote": "Claims 1-4 and 10 are rejected under 35 U.S.C. 102(b) as being anticipated by\nBonke (US 5133607 A).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "origin": "model",
+   "model_finding_id": "F6",
+   "kind": "rejection",
+   "doc_id": "GMS0SOXOPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     7,
+     8
+    ],
+    "basis": "103",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses the claimed invention except for a ratio of upper opening width to bag width less than 97% and greater than 94%; the examiner finds this an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     7,
+     8
+    ],
+    "basis": "103",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses the claimed invention except for a ratio of upper opening width to bag width less than 97% and greater than 94%; the examiner finds this an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "page": 5,
+   "quote": "Regarding claims 5-8, Bonke discloses the claimed invention except for teaching\na ratio of the upper opening width to the bag width being less than 97% and greater\nthan 94%.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "origin": "model",
+   "model_finding_id": "F7",
+   "kind": "rejection",
+   "doc_id": "GMS0SOXOPPOPPY5",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses the claimed invention except for a ratio of upper opening width to bag width less than 94%; the examiner finds this an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Bonke discloses the claimed invention except for a ratio of upper opening width to bag width less than 94%; the examiner finds this an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "page": 5,
+   "quote": "Regarding claim 9, Bonke discloses the claimed invention except for teaching a\nratio of the upper opening width to the bag width being less than 94%.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "origin": "model",
+   "model_finding_id": "F9",
+   "kind": "claim",
+   "doc_id": "GSUXUYADPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "page": 1,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "origin": "model",
+   "model_finding_id": "F10",
+   "kind": "claim",
+   "doc_id": "GSUXUYADPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side and a second side and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout located along the upper edge of the first panel and a second access cutout located along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side and a second side and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout located along the upper edge of the first panel and a second access cutout located along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "page": 2,
+   "quote": "(Currently Amended) An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "origin": "model",
+   "model_finding_id": "F11",
+   "kind": "claim",
+   "doc_id": "GSUXUYADPPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "status": "new",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings joined to first panel and the second panel at a second short seal, the distance between the first short seal and the second short seal being less than the width of the polymeric bag."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "status": "new",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings joined to first panel and the second panel at a second short seal, the distance between the first short seal and the second short seal being less than the width of the polymeric bag."
+   },
+   "page": 4,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel,",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "origin": "model",
+   "model_finding_id": "F13",
+   "kind": "amendment",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2
+    ],
+    "change": "The word \"easily\" is stricken from the claim to address Examiner's 112 vagueness concerns; \"not separable\" language retained as supported by paragraph [0032] of the specification."
+   },
+   "model_values": {
+    "claims": [
+     2
+    ],
+    "change": "The word \"easily\" is stricken from the claim to address Examiner's 112 vagueness concerns; \"not separable\" language retained as supported by paragraph [0032] of the specification."
+   },
+   "page": 1,
+   "quote": "the word \"easily\" is stricken from the cited claims. The language \"not separable\" is supported in the specification in paragraph [0032].",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "origin": "model",
+   "model_finding_id": "F14",
+   "kind": "amendment",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     8
+    ],
+    "change": "The word \"easily\" is stricken from the claim to address Examiner's 112 vagueness concerns, same as claim 2."
+   },
+   "model_values": {
+    "claims": [
+     8
+    ],
+    "change": "The word \"easily\" is stricken from the claim to address Examiner's 112 vagueness concerns, same as claim 2."
+   },
+   "page": 1,
+   "quote": "Claims 2 and 8 are amended to satisfy the Examiner's comments regarding the wording and language Examiner believes is vague",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "origin": "model",
+   "model_finding_id": "F15",
+   "kind": "amendment",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "change": "Removed portions of claim language believed not relevant to patentability, and added a requirement that the first elastic drawstring and the second elastic drawstring be joined/welded with the first panel and the second panel."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "change": "Removed portions of claim language believed not relevant to patentability, and added a requirement that the first elastic drawstring and the second elastic drawstring be joined/welded with the first panel and the second panel."
+   },
+   "page": 1,
+   "quote": "Independent claim 10 is amended to remove portions of the claim language that are not believed to be relevant to patentability. Additionally, the added portions of claim 10 require that the drawstring and the panels be joined, or welded, together.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "origin": "model",
+   "model_finding_id": "F16",
+   "kind": "estoppel",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "limitation": "short seals welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant argues that Bonke's seals (24) do not weld the hems to the drawstrings because Bonke's seals are located outside the ends of the hems, distinguishing the claimed short seals which do weld the hem and drawstring together."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "limitation": "short seals welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant argues that Bonke's seals (24) do not weld the hems to the drawstrings because Bonke's seals are located outside the ends of the hems, distinguishing the claimed short seals which do weld the hem and drawstring together."
+   },
+   "page": 2,
+   "quote": "Bonke explicitly states that the seals (24) are outside the ends of the hems, and therefore cannot be weld the hems to the drawstrings.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "origin": "model",
+   "model_finding_id": "F17",
+   "kind": "estoppel",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "limitation": "the first elastic drawstring and the second elastic drawstring be joined with the first panel and the second panel",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Claim 10 was amended to add a requirement that the drawstrings be joined with the panels, in order to distinguish over Bonke which does not show this feature."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "limitation": "the first elastic drawstring and the second elastic drawstring be joined with the first panel and the second panel",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Claim 10 was amended to add a requirement that the drawstrings be joined with the panels, in order to distinguish over Bonke which does not show this feature."
+   },
+   "page": 2,
+   "quote": "claim 10 has been amended to require that the first elastic drawstring and the second elastic drawstring be joined with the first panel and the second panel.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "origin": "model",
+   "model_finding_id": "F18",
+   "kind": "estoppel",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "limitation": "drawstrings and panels joined together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant argues Bonke teaches away from joining the drawstrings and panels, because doing so would prevent the bunching action needed for closure in Bonke's design, and that this critical missing element renders dependent claims 5-9 patentable."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "limitation": "drawstrings and panels joined together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant argues Bonke teaches away from joining the drawstrings and panels, because doing so would prevent the bunching action needed for closure in Bonke's design, and that this critical missing element renders dependent claims 5-9 patentable."
+   },
+   "page": 2,
+   "quote": "Bonke specifically teaches away from joining the drawstrings and the panels. Such a construction would actually undermine the operation of Bonke by preventing a person",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "origin": "model",
+   "model_finding_id": "F19",
+   "kind": "estoppel",
+   "doc_id": "GSUXUYB1PPOPPY2",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     10
+    ],
+    "limitation": "welding relationship between hem, drawstring, and panel/hem structures",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant characterizes claim 1's short seal limitation by quoting Bonke's specification to show that Bonke's sealing process occurs after and outside the hem, distinguishing this from the claimed welding arrangement."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     10
+    ],
+    "limitation": "welding relationship between hem, drawstring, and panel/hem structures",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke, U.S. Patent No. 5,133,607"
+    ],
+    "summary": "Applicant characterizes claim 1's short seal limitation by quoting Bonke's specification to show that Bonke's sealing process occurs after and outside the hem, distinguishing this from the claimed welding arrangement."
+   },
+   "page": 2,
+   "quote": "the ends of the individual drawstrings are exposed at the ends of the hems 16 [and t]he exposed ends of the drawstrings are then sealed at 24 in close proximity to the ends of the hems.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "origin": "model",
+   "model_finding_id": "F21",
+   "kind": "rejection",
+   "doc_id": "GVCTGLW6PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     10,
+     11,
+     15,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider discloses the pull-strip bag structure including panels, side seals, hems, drawstrings and short seals but lacks an elastic drawstring; Bonke teaches a plastic liner bag with an elastic top tie strip in the hem, and it would have been obvious to combine to use an elastic drawstring in Schneider's bag to provide an efficient means of carrying and closing."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     10,
+     11,
+     15,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider discloses the pull-strip bag structure including panels, side seals, hems, drawstrings and short seals but lacks an elastic drawstring; Bonke teaches a plastic liner bag with an elastic top tie strip in the hem, and it would have been obvious to combine to use an elastic drawstring in Schneider's bag to provide an efficient means of carrying and closing."
+   },
+   "page": 3,
+   "quote": "Claims 1-16 are rejected under 35 U.S.C. 103(a) as being unpatentable over Schneider (US 7137737 B2) in view of Bonke (US 5133607 A).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "origin": "model",
+   "model_finding_id": "F22",
+   "kind": "rejection",
+   "doc_id": "GVCTGLW6PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     8,
+     12,
+     13,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider as modified discloses the claimed invention except for a ratio of upper opening width to bag width less than 97% and greater than 94%, which the examiner found to be an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     8,
+     12,
+     13,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider as modified discloses the claimed invention except for a ratio of upper opening width to bag width less than 97% and greater than 94%, which the examiner found to be an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "page": 4,
+   "quote": "Schneider, as modified above, discloses the claimed invention except for teaching a ratio of the upper opening width to the bag width being less than 97% and greater than 94%.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "origin": "model",
+   "model_finding_id": "F23",
+   "kind": "rejection",
+   "doc_id": "GVCTGLW6PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider as modified discloses the claimed invention except for a ratio of upper opening width to bag width being less than 94%, which the examiner found to be an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider (US 7137737 B2)",
+     "Bonke (US 5133607 A)"
+    ],
+    "summary": "Schneider as modified discloses the claimed invention except for a ratio of upper opening width to bag width being less than 94%, which the examiner found to be an obvious optimization of a result-effective variable per In re Boesch."
+   },
+   "page": 4,
+   "quote": "Regarding claim 9, Schneider, as modified above, discloses the claimed invention except for teaching a ratio of the upper opening width to the bag width being less than 94%.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "origin": "model",
+   "model_finding_id": "F25",
+   "kind": "claim",
+   "doc_id": "GZ8Y6MXRPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal welding the first hem, the first elastic drawstring, the second hem and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between the first side seal and the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "page": 1,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "origin": "model",
+   "model_finding_id": "F26",
+   "kind": "claim",
+   "doc_id": "GZ8Y6MXRPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "page": 2,
+   "quote": "An elastic drawstring trash bag comprising:\na polymeric bag comprised of a first panel and a second",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "origin": "model",
+   "model_finding_id": "F27",
+   "kind": "claim",
+   "doc_id": "GZ8Y6MXRPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings joined to first panel and the second panel at a second short seal, the distance between the first short seal and the second short seal being less than the width of the polymeric bag."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "status": "original",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings joined to first panel and the second panel at a second short seal, the distance between the first short seal and the second short seal being less than the width of the polymeric bag."
+   },
+   "page": 3,
+   "quote": "An elastic drawstring trash bag comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "origin": "model",
+   "model_finding_id": "F29",
+   "kind": "estoppel",
+   "doc_id": "GZ8Y6MY0PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "limitation": "relaxed upper opening width being less than the bag proper width",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider (U.S. Pat. No. 7,137,737)"
+    ],
+    "summary": "Applicant argues that Schneider fails to disclose the claimed relationship because in Schneider the relaxed upper opening width and the bag proper width are the exact same distance, whereas the claim requires the relaxed upper opening width to be less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "limitation": "relaxed upper opening width being less than the bag proper width",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider (U.S. Pat. No. 7,137,737)"
+    ],
+    "summary": "Applicant argues that Schneider fails to disclose the claimed relationship because in Schneider the relaxed upper opening width and the bag proper width are the exact same distance, whereas the claim requires the relaxed upper opening width to be less than the bag proper width."
+   },
+   "page": 2,
+   "quote": "the distance between the short seals (relaxed upper opening width) is the exact same as the distance between the side seals (bag proper width). Schneider thus fails to show a bag where the relaxed upper opening width is less than the bag proper width.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "origin": "model",
+   "model_finding_id": "F30",
+   "kind": "estoppel",
+   "doc_id": "GZ8Y6MY0PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "limitation": "short seals welding the hems and drawstrings together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke (U.S. Pat. No. 5,133,607)"
+    ],
+    "summary": "Applicant argues Bonke fails to disclose 'short seals' as claimed because the seals for the drawstrings in Bonke do not weld the hems and drawstrings together, and that this absence precludes the presence of a relaxed upper opening width in Bonke."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "limitation": "short seals welding the hems and drawstrings together",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke (U.S. Pat. No. 5,133,607)"
+    ],
+    "summary": "Applicant argues Bonke fails to disclose 'short seals' as claimed because the seals for the drawstrings in Bonke do not weld the hems and drawstrings together, and that this absence precludes the presence of a relaxed upper opening width in Bonke."
+   },
+   "page": 3,
+   "quote": "the seals for the drawstrings in Bonke do not weld the hems and the drawstrings together, which Examiner has previously acknowledged. Consequently, the lack of \"short seals\" as claimed by the present invention precludes the presence of a relaxed upper opening width in Bonke.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "origin": "model",
+   "model_finding_id": "F31",
+   "kind": "estoppel",
+   "doc_id": "GZ8Y6MY0PXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "limitation": "bag proper width / relaxed upper opening width definitions",
+    "estoppel_type": "definition/lexicography",
+    "risk": "medium",
+    "distinguished_art": [
+     "Schneider (U.S. Pat. No. 7,137,737)"
+    ],
+    "summary": "Applicant explains that 'bag proper width' is defined as the distance between the first side seal and the second side seal, while 'relaxed upper opening width' is defined as the distance between the interior edge of the first short seal and the interior edge of the second short seal."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "limitation": "bag proper width / relaxed upper opening width definitions",
+    "estoppel_type": "definition/lexicography",
+    "risk": "medium",
+    "distinguished_art": [
+     "Schneider (U.S. Pat. No. 7,137,737)"
+    ],
+    "summary": "Applicant explains that 'bag proper width' is defined as the distance between the first side seal and the second side seal, while 'relaxed upper opening width' is defined as the distance between the interior edge of the first short seal and the interior edge of the second short seal."
+   },
+   "page": 1,
+   "quote": "the bag proper width is defined as \"a distance between the first side seal and the second side seal\" while the relaxed upper opening width is defined by \"a distance between the interior edge of the first short seal and the interior edge of the",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "origin": "model",
+   "model_finding_id": "F33",
+   "kind": "rejection",
+   "doc_id": "H0V1OZENPXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "objection",
+    "references": [],
+    "summary": "Claims 11-16 were newly filed in the amendment entered 9/21/2011 but identified as '(Original)'; they should be labeled '(Previously Presented)'."
+   },
+   "model_values": {
+    "claims": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "objection",
+    "references": [],
+    "summary": "Claims 11-16 were newly filed in the amendment entered 9/21/2011 but identified as '(Original)'; they should be labeled '(Previously Presented)'."
+   },
+   "page": 3,
+   "quote": "Claims 1116 are identified as \"(Original)\" when they were newly filed in the amendment entered on 9/21/2011; therefore they should be identified as \"(Previously Presented)\".",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "origin": "model",
+   "model_finding_id": "F34",
+   "kind": "rejection",
+   "doc_id": "H0V1OZENPXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     10,
+     11,
+     15,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider teaches a pull-strip bag with first and second panels, side seals, hems, drawstrings, and short seals forming a relaxed upper opening narrower than the bag proper width, but lacks an elastic drawstring; Bonke teaches a plastic liner bag with an elastic top tie strip in the hem, and it would have been obvious to combine to provide an efficient means of carrying and closing."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     10,
+     11,
+     15,
+     16
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider teaches a pull-strip bag with first and second panels, side seals, hems, drawstrings, and short seals forming a relaxed upper opening narrower than the bag proper width, but lacks an elastic drawstring; Bonke teaches a plastic liner bag with an elastic top tie strip in the hem, and it would have been obvious to combine to provide an efficient means of carrying and closing."
+   },
+   "page": 3,
+   "quote": "Claims 1-16 are rejected under 35 U.S.C. 103(a) as being unpatentable over Schneider (US 7137737 B2) in view of Bonke (US 5133607 A).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "origin": "model",
+   "model_finding_id": "F35",
+   "kind": "rejection",
+   "doc_id": "H0V1OZENPXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     5,
+     6,
+     8,
+     12,
+     13,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider as modified discloses the invention except for a ratio of upper opening width to bag width being less than 97% and greater than 94%; this ratio is an obvious matter of routine optimization of a result-effective variable under In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     5,
+     6,
+     8,
+     12,
+     13,
+     14
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider as modified discloses the invention except for a ratio of upper opening width to bag width being less than 97% and greater than 94%; this ratio is an obvious matter of routine optimization of a result-effective variable under In re Boesch."
+   },
+   "page": 4,
+   "quote": "It would have been obvious to one having ordinary skill in the art at the time the invention was made to make the ratio of the bag with an upper opening width to the bag width less than 97% and greater than 94%, since it has been held that discovering an optimum value of a result effective variable involves only routine skill in the art.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "origin": "model",
+   "model_finding_id": "F36",
+   "kind": "rejection",
+   "doc_id": "H0V1OZENPXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider as modified discloses the invention except for a ratio of upper opening width to bag width being less than 94%; this is deemed an obvious routine optimization under In re Boesch."
+   },
+   "model_values": {
+    "claims": [
+     9
+    ],
+    "basis": "103",
+    "references": [
+     "Schneider US 7137737 B2",
+     "Bonke US 5133607 A"
+    ],
+    "summary": "Schneider as modified discloses the invention except for a ratio of upper opening width to bag width being less than 94%; this is deemed an obvious routine optimization under In re Boesch."
+   },
+   "page": 5,
+   "quote": "It would have been obvious to one having ordinary skill in the art at the time the invention was made to make the ratio of the bag with an upper opening width to the bag width less than 94%, since it has been held that discovering an optimum value of a result effective variable involves only routine skill in the art.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "origin": "model",
+   "model_finding_id": "F37",
+   "kind": "claim",
+   "doc_id": "H4FRCM6HPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal inseparably welding the first panel, the elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between an interior edge of the first side seal and an interior edge of the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal inseparably welding the first panel, the elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between an interior edge of the first side seal and an interior edge of the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "page": 1,
+   "quote": "1. (Currently Amended) An elastic drawstring trash bag comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "origin": "model",
+   "model_finding_id": "F38",
+   "kind": "claim",
+   "doc_id": "H4FRCM6HPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring being joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "page": 3,
+   "quote": "10. (Currently Amended) An elastic drawstring trash bag comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "origin": "model",
+   "model_finding_id": "F39",
+   "kind": "claim",
+   "doc_id": "H4FRCM6HPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings inseparably joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings inseparably joined to first panel and the second panel at a second short seal, the distance between an interior edge of the first short seal and an interior edge of the second short seal being less than a bag proper width of the polymeric bag."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising of a first panel and a second panel, a pair of hems formed in the respective first panel and second panel, a pair of elastic drawstring disposed within each of the respective hems, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that are substantially coterminous with a second end of the second elastic drawstring, the first ends of the pair of drawstrings inseparably joined to the first panel and second panel at a first short seal, the second ends of the pair of drawstrings inseparably joined to first panel and the second panel at a second short seal, the distance between an interior edge of the first short seal and an interior edge of the second short seal being less than a bag proper width of the polymeric bag."
+   },
+   "page": 4,
+   "quote": "16. (Currently Amended) An elastic drawstring trash bag comprising:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "origin": "model",
+   "model_finding_id": "F41",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to unequivocally claim that the bag proper width is defined as the distance from interior edges of the respective side seals."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to unequivocally claim that the bag proper width is defined as the distance from interior edges of the respective side seals."
+   },
+   "page": 1,
+   "quote": "Claim 1 is amended to unequivocally claim that the bag proper width is defined as the distance from interior edges of the respective side seals.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "origin": "model",
+   "model_finding_id": "F42",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to clarify that the short seals weld the panels, which include the hems, to the respective ends of the drawstrings."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to clarify that the short seals weld the panels, which include the hems, to the respective ends of the drawstrings."
+   },
+   "page": 1,
+   "quote": "Claim 1 is amended to clarify that the short seals weld the panels, which include the hems, to the respective ends of the drawstrings.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "origin": "model",
+   "model_finding_id": "F43",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to describe the short seals as inseparably welding, or inseparably joining, the first panel and the second panel with the first drawstring and the second drawstring."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "change": "Amended to describe the short seals as inseparably welding, or inseparably joining, the first panel and the second panel with the first drawstring and the second drawstring."
+   },
+   "page": 1,
+   "quote": "the claims are amended to describe the short seals as inseparably welding, or inseparably joining, the first panel and the me panel with the first drawstring and the second drawstring.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G36",
+   "origin": "model",
+   "model_finding_id": "F44",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "change": "Amended to clearly delineate the inseparably welded construction of the bag and drawstring, describing short seals as inseparably welding/joining the panels with the drawstrings."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "change": "Amended to clearly delineate the inseparably welded construction of the bag and drawstring, describing short seals as inseparably welding/joining the panels with the drawstrings."
+   },
+   "page": 1,
+   "quote": "The independent claims have been further amended to clearly delineate the inseparabl welded construction of the bag and drawstring.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G37",
+   "origin": "model",
+   "model_finding_id": "F45",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "change": "Amended to clearly delineate the inseparably welded construction of the bag and drawstring, describing short seals as inseparably welding/joining the panels with the drawstrings."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "change": "Amended to clearly delineate the inseparably welded construction of the bag and drawstring, describing short seals as inseparably welding/joining the panels with the drawstrings."
+   },
+   "page": 1,
+   "quote": "The independent claims have been further amended to clearly delineate the inseparabl welded construction of the bag and drawstring.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G38",
+   "origin": "model",
+   "model_finding_id": "F46",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2
+    ],
+    "change": "Amended to claim a bag that expressly lacks notches or cut-outs."
+   },
+   "model_values": {
+    "claims": [
+     2
+    ],
+    "change": "Amended to claim a bag that expressly lacks notches or cut-outs."
+   },
+   "page": 2,
+   "quote": "dependent claims 2 and 8 are amended to claim a bag that expressly lacks notches| or cut-outs.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G39",
+   "origin": "model",
+   "model_finding_id": "F47",
+   "kind": "amendment",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     8
+    ],
+    "change": "Amended to claim a bag that expressly lacks notches or cut-outs."
+   },
+   "model_values": {
+    "claims": [
+     8
+    ],
+    "change": "Amended to claim a bag that expressly lacks notches or cut-outs."
+   },
+   "page": 2,
+   "quote": "dependent claims 2 and 8 are amended to claim a bag that expressly lacks notches| or cut-outs.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G40",
+   "origin": "model",
+   "model_finding_id": "F48",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "bag proper width",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant amended claim 1 to define 'bag proper width' explicitly as the distance from interior edges of the respective side seals, made to resolve examiner ambiguity concerns and to distinguish Schneider."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "bag proper width",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant amended claim 1 to define 'bag proper width' explicitly as the distance from interior edges of the respective side seals, made to resolve examiner ambiguity concerns and to distinguish Schneider."
+   },
+   "page": 1,
+   "quote": "Claim 1 is amended to unequivocally claim that the bag proper width is defined as the distance from interior edges of the respective side seals.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G41",
+   "origin": "model",
+   "model_finding_id": "F49",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seals / inseparably welding",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737",
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Claims amended to require that short seals inseparably weld/join the first and second panels with the first and second drawstrings, to overcome the Schneider/Bonke combination."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seals / inseparably welding",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737",
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Claims amended to require that short seals inseparably weld/join the first and second panels with the first and second drawstrings, to overcome the Schneider/Bonke combination."
+   },
+   "page": 1,
+   "quote": "the claims are amended to describe the short seals as inseparably welding, or inseparably joining, the first panel and the me panel with the first drawstring and the second drawstring.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G42",
+   "origin": "model",
+   "model_finding_id": "F50",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "inseparably",
+    "estoppel_type": "definition/lexicography",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke '607",
+     "Bonke '673",
+     "Bonke '243",
+     "Belias '458",
+     "Vo '377"
+    ],
+    "summary": "Applicant defines 'inseparably' to mean there is a lack of notches, cut-outs, or other means by which the upper corners of the bag and drawstring ends separate from the panels, based on specification paragraphs [0011]-[0012]."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "inseparably",
+    "estoppel_type": "definition/lexicography",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke '607",
+     "Bonke '673",
+     "Bonke '243",
+     "Belias '458",
+     "Vo '377"
+    ],
+    "summary": "Applicant defines 'inseparably' to mean there is a lack of notches, cut-outs, or other means by which the upper corners of the bag and drawstring ends separate from the panels, based on specification paragraphs [0011]-[0012]."
+   },
+   "page": 1,
+   "quote": "a person of ordinary skill in the art would understand that inseparable means that there is a lack of notches, cut-outs, or other means by which the upper",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G43",
+   "origin": "model",
+   "model_finding_id": "F51",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     2,
+     8
+    ],
+    "limitation": "no notch or cutout",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke '607",
+     "Bonke '673",
+     "Bonke '243"
+    ],
+    "summary": "Dependent claims 2 and 8 amended to expressly claim a bag lacking notches or cut-outs, further contrasting from prior art Bonke references which use notches/cutouts to form the drawstring loop."
+   },
+   "model_values": {
+    "claims": [
+     2,
+     8
+    ],
+    "limitation": "no notch or cutout",
+    "estoppel_type": "amendment-based estoppel",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke '607",
+     "Bonke '673",
+     "Bonke '243"
+    ],
+    "summary": "Dependent claims 2 and 8 amended to expressly claim a bag lacking notches or cut-outs, further contrasting from prior art Bonke references which use notches/cutouts to form the drawstring loop."
+   },
+   "page": 2,
+   "quote": "To further underscore and highlight the contrasts between Applicant's invention and the prior art, dependent claims 2 and 8 are amended to claim a bag that expressly lacks notches| or cut-outs.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G44",
+   "origin": "model",
+   "model_finding_id": "F52",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "elastic drawstring / welded vs. separable",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737",
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Applicant argues it would not be obvious to modify Schneider by substituting Bonke's elastic drawstring because Bonke teaches away from welding the drawstring to the hem, describing the drawstring as a free-moving continuous loop not welded to the bag."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "elastic drawstring / welded vs. separable",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737",
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Applicant argues it would not be obvious to modify Schneider by substituting Bonke's elastic drawstring because Bonke teaches away from welding the drawstring to the hem, describing the drawstring as a free-moving continuous loop not welded to the bag."
+   },
+   "page": 4,
+   "quote": "Bonke specifically teaches away from welding the drawstring to the hem, describing bn advantage of the Bonke invention as follows:",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G45",
+   "origin": "model",
+   "model_finding_id": "F53",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "relaxed upper opening width less than bag proper width",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant argues that in Schneider the short seals are merely a linear extension of the side seals, so the distance between interior edges of the short seals is identical to (not less than) the bag proper width, distinguishing the claimed 'relaxed upper opening width being less than bag proper width' limitation."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "relaxed upper opening width less than bag proper width",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant argues that in Schneider the short seals are merely a linear extension of the side seals, so the distance between interior edges of the short seals is identical to (not less than) the bag proper width, distinguishing the claimed 'relaxed upper opening width being less than bag proper width' limitation."
+   },
+   "page": 6,
+   "quote": "the short seals are merely an Bag voter | extension of the linear side seals with the side seals and 4\"\" | 1 i Ts",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G46",
+   "origin": "model",
+   "model_finding_id": "F54",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seal",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Applicant argues that Bonke's element 24 (sealing the ends of the drawstring together) does not constitute a 'short seal' as claimed because it does not weld the panels together with the drawstring, distinguishing the claimed 'short seal' from Bonke's constrained upper opening structure."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seal",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "high",
+    "distinguished_art": [
+     "Bonke U.S. Pat. No. 5,133,607"
+    ],
+    "summary": "Applicant argues that Bonke's element 24 (sealing the ends of the drawstring together) does not constitute a 'short seal' as claimed because it does not weld the panels together with the drawstring, distinguishing the claimed 'short seal' from Bonke's constrained upper opening structure."
+   },
+   "page": 7,
+   "quote": "the feature in Bonke cited by the Examiner fails to teach a \"short seal\" as claimed which defines the \"relaxed upper opening width.\"",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G47",
+   "origin": "model",
+   "model_finding_id": "F55",
+   "kind": "estoppel",
+   "doc_id": "H4FRCM6OPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seal / welded ends",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke U.S. Pat. No. 5,133,607",
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant argues that Bonke's welds 24 (sealing exposed drawstring ends together) are not analogous to the claimed short seals, and that Schneider's drawstrings lack exposed ends, so the combination cannot disclose the claimed relaxed upper opening width limitation."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     10,
+     16
+    ],
+    "limitation": "short seal / welded ends",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "medium",
+    "distinguished_art": [
+     "Bonke U.S. Pat. No. 5,133,607",
+     "Schneider U.S. Pat. No. 7,137,737"
+    ],
+    "summary": "Applicant argues that Bonke's welds 24 (sealing exposed drawstring ends together) are not analogous to the claimed short seals, and that Schneider's drawstrings lack exposed ends, so the combination cannot disclose the claimed relaxed upper opening width limitation."
+   },
+   "page": 8,
+   "quote": "the Bonke \"constrained upper opening\" between the welds 24 is not the same as te relaxed upper opening width, as the welds 24 of Bonke are not analogous to the short seals claimed by Applicant.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G48",
+   "origin": "model",
+   "model_finding_id": "F58",
+   "kind": "claim",
+   "doc_id": "HLJMJ0DFPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between an interior edge of the first side seal and an interior edge of the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side seal and a second side seal and a bottom, the first panel and the second panel each having an upper edge, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, a first short seal, the first short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the first short seal defined by the first short seal, a second short seal, the second short seal inseparably welding the first panel, the first elastic drawstring, the second panel and the second elastic drawstring together, an interior edge of the second short seal defined by the second short seal, a bag proper width defined by a distance between an interior edge of the first side seal and an interior edge of the second side seal, and a relaxed upper opening width defined by a distance between the interior edge of the first short seal and the interior edge of the second short seal when the bag is in a relaxed state, the relaxed upper opening width being less than the bag proper width."
+   },
+   "page": 1,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G49",
+   "origin": "model",
+   "model_finding_id": "F59",
+   "kind": "claim",
+   "doc_id": "HLJMJ0DFPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     10
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring inseparably joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "model_values": {
+    "claims": [
+     10
+    ],
+    "status": "previously presented",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the second panel joined at a first side, a second side, and a bottom, a first hem formed in the first panel, the first hem having a first elastic drawstring disposed therein, a second hem formed in the second panel, the second hem having a second elastic drawstring disposed therein, the first panel, the first elastic drawstring, the second panel, and the second elastic drawstring inseparably joined together at a first short seal and at a second short seal, and a first access cutout along the upper edge of the first panel and a second access cutout along the upper edge of the second panel, the first and second elastic drawstrings being accessible through the respective first and second access cutouts."
+   },
+   "page": 3,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprised of a first panel and a second panel, the first panel and the",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G50",
+   "origin": "model",
+   "model_finding_id": "F60",
+   "kind": "claim",
+   "doc_id": "HLJMJ0DFPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising a first panel and a second panel, a first hem formed in the first panel and a second hem formed in the second panel, a first elastic drawstring disposed within the first hem and a second elastic drawstring disposed within the second hem, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that is substantially coterminous with a second end of the second elastic drawstring, the first ends of the first and second elastic drawstrings inseparably joined to the first panel and the second panel at a first short seal, the second ends of the first and second elastic drawstrings inseparably joined to the first panel and the second panel at a second short seal, the distance between an interior edge of the first short seal and an interior edge of the second short seal being less than a bag proper width of the polymeric bag."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "status": "currently amended",
+    "text": "An elastic drawstring trash bag comprising: a polymeric bag comprising a first panel and a second panel, a first hem formed in the first panel and a second hem formed in the second panel, a first elastic drawstring disposed within the first hem and a second elastic drawstring disposed within the second hem, the first elastic drawstring having a first end that is substantially coterminous with a first end of the second elastic drawstring and a second end that is substantially coterminous with a second end of the second elastic drawstring, the first ends of the first and second elastic drawstrings inseparably joined to the first panel and the second panel at a first short seal, the second ends of the first and second elastic drawstrings inseparably joined to the first panel and the second panel at a second short seal, the distance between an interior edge of the first short seal and an interior edge of the second short seal being less than a bag proper width of the polymeric bag."
+   },
+   "page": 4,
+   "quote": "An elastic drawstring trash bag comprising: a polymeric bag comprising [[ef]] a first panel and a second panel,",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G51",
+   "origin": "model",
+   "model_finding_id": "F62",
+   "kind": "amendment",
+   "doc_id": "HLJMJ0DVPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     12
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "model_values": {
+    "claims": [
+     12
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "page": 1,
+   "quote": "Claims 12, 13, 14, and 16 have been amended to correct typographical errors in previously submitted claim amendments and for clarification purposes.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G52",
+   "origin": "model",
+   "model_finding_id": "F63",
+   "kind": "amendment",
+   "doc_id": "HLJMJ0DVPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     13
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "model_values": {
+    "claims": [
+     13
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "page": 1,
+   "quote": "Claims 12, 13, 14, and 16 have been amended to correct typographical errors in previously submitted claim amendments and for clarification purposes.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G53",
+   "origin": "model",
+   "model_finding_id": "F64",
+   "kind": "amendment",
+   "doc_id": "HLJMJ0DVPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     14
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "model_values": {
+    "claims": [
+     14
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "page": 1,
+   "quote": "Claims 12, 13, 14, and 16 have been amended to correct typographical errors in previously submitted claim amendments and for clarification purposes.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G54",
+   "origin": "model",
+   "model_finding_id": "F65",
+   "kind": "amendment",
+   "doc_id": "HLJMJ0DVPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     16
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "model_values": {
+    "claims": [
+     16
+    ],
+    "change": "Claim amended to correct typographical errors from previously submitted claim amendments and for clarification purposes; no substantive limitation change described."
+   },
+   "page": 1,
+   "quote": "Claims 12, 13, 14, and 16 have been amended to correct typographical errors in previously submitted claim amendments and for clarification purposes.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G55",
+   "origin": "model",
+   "model_finding_id": "F68",
+   "kind": "rejection",
+   "doc_id": "HR9K9QJ2PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "double patenting",
+    "references": [
+     "U.S. Patent No. 8523439 B2",
+     "Piazze US 3029853 A"
+    ],
+    "summary": "Claims 1-16 are rejected for nonstatutory double patenting over claims 1-11 of Patent No. 8523439 B2 in view of Piazze. The patent discloses an elastic drawstring trash bag with short seals but lacks a bag opening narrower than the overall bag width; Piazze teaches lateral short seals making the bag opening narrower than the overall bag width, and it would have been obvious to combine to make the bag easier to use."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "double patenting",
+    "references": [
+     "U.S. Patent No. 8523439 B2",
+     "Piazze US 3029853 A"
+    ],
+    "summary": "Claims 1-16 are rejected for nonstatutory double patenting over claims 1-11 of Patent No. 8523439 B2 in view of Piazze. The patent discloses an elastic drawstring trash bag with short seals but lacks a bag opening narrower than the overall bag width; Piazze teaches lateral short seals making the bag opening narrower than the overall bag width, and it would have been obvious to combine to make the bag easier to use."
+   },
+   "page": 4,
+   "quote": "Claims 1-16 are rejected on the ground of nonstatutory double patenting as being unpatentable over claims 1-11 of U.S. Patent No. 8523439 B2 in view of Piazze (US 3029853 A).",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G56",
+   "origin": "model",
+   "model_finding_id": "F69",
+   "kind": "rejection",
+   "doc_id": "HR9K9QJ2PXXIFW4",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "double patenting",
+    "references": [
+     "copending Application No. 13/945065",
+     "Piazze US 3029853 A"
+    ],
+    "summary": "Claims 1-16 are provisionally rejected for nonstatutory double patenting over claims 9-81 of copending Application No. 13/945065 in view of Piazze, applying the same rationale as the prior double patenting rejection."
+   },
+   "model_values": {
+    "claims": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "basis": "double patenting",
+    "references": [
+     "copending Application No. 13/945065",
+     "Piazze US 3029853 A"
+    ],
+    "summary": "Claims 1-16 are provisionally rejected for nonstatutory double patenting over claims 9-81 of copending Application No. 13/945065 in view of Piazze, applying the same rationale as the prior double patenting rejection."
+   },
+   "page": 5,
+   "quote": "Claims 1-16 are provisionally rejected on the ground of nonstatutory double\npatenting as being unpatentable over claims 9-81 of copending Application No.\n13/945065 in view of Piazze.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G57",
+   "origin": "model",
+   "model_finding_id": "F71",
+   "kind": "estoppel",
+   "doc_id": "HRAZZ3WSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "limitation": "N/A - double patenting rejection response",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant submitted an eTerminal Disclaimer to fully address the Double Patenting rejection(s) cited by the Examiner, rather than arguing against the rejection on the merits."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "limitation": "N/A - double patenting rejection response",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant submitted an eTerminal Disclaimer to fully address the Double Patenting rejection(s) cited by the Examiner, rather than arguing against the rejection on the merits."
+   },
+   "page": 1,
+   "quote": "Applicant submitted an eTerminal Disclaimer on February 5, 2014 to fully address the Double Patenting rejection(s) cited by Examiner in the pending Office Action.",
+   "error_tags": [],
+   "note": ""
+  },
+  {
+   "id": "G58",
+   "origin": "model",
+   "model_finding_id": "F72",
+   "kind": "estoppel",
+   "doc_id": "HRAZZ3WSPXXIFW3",
+   "verdict": "correct",
+   "fields": {
+    "claims": [
+     1
+    ],
+    "limitation": "N/A - allowance request based on disclaimer filing",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant asserts that, in view of the filing of the eTerminal Disclaimer, the application is now in condition for allowance, implying the disclaimer resolved the only outstanding rejection."
+   },
+   "model_values": {
+    "claims": [
+     1
+    ],
+    "limitation": "N/A - allowance request based on disclaimer filing",
+    "estoppel_type": "argument-based disclaimer",
+    "risk": "low",
+    "distinguished_art": [],
+    "summary": "Applicant asserts that, in view of the filing of the eTerminal Disclaimer, the application is now in condition for allowance, implying the disclaimer resolved the only outstanding rejection."
+   },
+   "page": 1,
+   "quote": "In view of the filing of the eTerminal Disclaimer, it is submitted that the present application is now in condition for allowance and Applicant respectfully requests an issuance of a Notice of Allowance.",
+   "error_tags": [],
+   "note": ""
+  }
+ ]
+}

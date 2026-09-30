@@ -1,0 +1,16 @@
+{
+ "count": 5,
+ "documentBag": [
+  {"applicationNumberText": "99999999", "officialDate": "2020-06-01T00:00:00.000-0400", "documentIdentifier": "DOC0003", "documentCode": "CTNF", "documentCodeDescriptionText": "Non-Final Rejection", "directionCategory": "OUTGOING",
+   "downloadOptionBag": [{"mimeTypeIdentifier": "PDF", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0003.pdf", "pageTotalQuantity": 2},
+                         {"mimeTypeIdentifier": "XML", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0003.xml"}]},
+  {"applicationNumberText": "99999999", "officialDate": "2020-01-10T00:00:00.000-0500", "documentIdentifier": "DOC0001", "documentCode": "CLM", "documentCodeDescriptionText": "Claims", "directionCategory": "INCOMING",
+   "downloadOptionBag": [{"mimeTypeIdentifier": "PDF", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0001.pdf", "pageTotalQuantity": 1}]},
+  {"applicationNumberText": "99999999", "officialDate": "2020-01-10T00:00:00.000-0500", "documentIdentifier": "DOC0002", "documentCode": "N417", "documentCodeDescriptionText": "Electronic Filing System Receipt", "directionCategory": "INCOMING",
+   "downloadOptionBag": [{"mimeTypeIdentifier": "PDF", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0002.pdf", "pageTotalQuantity": 1}]},
+  {"applicationNumberText": "99999999", "officialDate": "2020-09-01T00:00:00.000-0400", "documentIdentifier": "DOC0004", "documentCode": "REM", "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment", "directionCategory": "INCOMING",
+   "downloadOptionBag": [{"mimeTypeIdentifier": "PDF", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0004.pdf", "pageTotalQuantity": 3}]},
+  {"applicationNumberText": "99999999", "officialDate": "2021-01-05T00:00:00.000-0500", "documentIdentifier": "DOC0006", "documentCode": "XYZQ", "documentCodeDescriptionText": "Notice of Allowance and Fees Due (PTOL-85)", "directionCategory": "OUTGOING",
+   "downloadOptionBag": [{"mimeTypeIdentifier": "PDF", "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/99999999/DOC0006.pdf", "pageTotalQuantity": 4}]}
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "model-sweep",
+ "grid": {
+  "model": [
+   "claude-sonnet-5",
+   "claude-haiku-4-5",
+   "claude-opus-5-5"
+  ],
+  "prompt": [
+   "2026-09-25.2",
+   "2026-09-25.2-no-rule3"
+  ]
+ },
+ "fixed": {
+  "completeness_retry": true,
+  "judge": false
+ },
+ "patents": "all",
+ "docs": "all",
+ "repeats": 1,
+ "budget_usd": 25.0,
+ "workers": 4,
+ "source_dir": null,
+ "gold_dir": null
+}
