@@ -253,20 +253,23 @@ estoppel out instead of counting it as missed.
 
 ## Patents used in this repository
 
-The benchmark, experiments and screenshots use well-known patents whose file histories
-and litigation are public, so readers can check the tool's output against what courts
-and commentators have said about the same prosecution:
+The benchmark and experiments use five litigated patents whose file histories are public.
+In four of the five, a Federal Circuit decision turned on the prosecution record itself,
+so readers can check the tool's output against what the court said about the same
+documents:
 
-| Patent | Subject | Why it's a useful test |
-|---|---|---|
-| US 8,046,721 (Apple) | Slide-to-unlock touchscreen gesture | Litigated in *Apple v. Samsung*; claim scope is well documented |
-| US 8,697,359 (Broad Institute) | CRISPR-Cas9 in eukaryotic cells | First US CRISPR patent; accelerated (Track One) prosecution later scrutinized in the Broad–UC interference |
-| US 8,829,165 (Amgen) | PCSK9 antibodies | *Amgen v. Sanofi* (U.S. 2023): functional genus claims and enablement |
-| US 7,347,011 (Nike) | Knitted textile footwear upper | *Nike v. Adidas* IPR and appeals: amendments and substitute claims |
+| Patent | Application | Subject | Case | Why it's a useful test |
+|---|---|---|---|---|
+| US 8,046,721 | 12/477,075 | Slide-to-unlock touchscreen gesture (Apple) | *Apple v. Samsung* (obviousness, not prosecution history) | Clean, well-documented prosecution: double patenting, §102/§103, after-final practice and an advisory action |
+| US 8,702,308 | 12/262,027 | Elastic drawstring trash bag (Poly-America) | *Poly-America v. API Industries* (Fed. Cir. 2016) | Disclaimer found from statements distinguishing the prior art; long back-and-forth over the same references |
+| US 8,900,294 | 14/253,656 | Controlled release of a replacement heart valve (Colibri) | *Colibri v. Medtronic CoreValve* (Fed. Cir. 2025) | Claims canceled after a §112(a) written-description rejection, which later barred the doctrine of equivalents; many new and amended claims |
+| US 10,469,966 | 16/383,565 | Zone scene management for networked speakers (Sonos) | *Google v. Sonos* (Fed. Cir. 2025, prosecution laches) | Short, fast prosecution: one §103 rejection over a product manual, an examiner's amendment and reasons for allowance |
+| US 10,858,176 | 16/538,752 | Coffee capsule with barcode identifier (K-fee) | *K-fee v. Nespresso* (Fed. Cir. 2023) | Dense office actions (up to 17 grounds, many §112 issues), which is the hardest case for the models |
 
-Numbers are resolved to application numbers through the USPTO Open Data Portal, so
-`fh-analyze 8046721` is all that's needed. Gold labels committed in `gold/` are for these
-patents only (`examples/` holds a small fictional demo).
+Gold files are named by application number (e.g. `gold/12477075.json`). Numbers are resolved to application numbers
+through the USPTO Open Data Portal, so `fh-analyze 8046721` is all that's needed. The
+Portal's file-wrapper data mainly covers applications filed from 2001 on. `examples/`
+holds a small fictional demo used by the tests and the screenshots.
 
 ### Keeping confidential matters out of the repo
 
